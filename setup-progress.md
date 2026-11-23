@@ -3,7 +3,7 @@
 Claude ticks each step as it is finished (see ONBOARDING.md). If any box
 is empty, setup is not complete: resume at the first empty box.
 
-- [ ] 1. Welcome; permission to save and publish; phone and podcast app
+- [x] 1. Welcome; permission to save and publish; phone and podcast app
 - [ ] 2. About the listener
 - [ ] 3. The ten topics
 - [ ] 4. Watchlist
@@ -16,6 +16,6 @@ is empty, setup is not complete: resume at the first empty box.
 
 ## Notes
 
-Phone and podcast app:
+Phone and podcast app: iPhone (presumed), Apple Podcasts
 Podcast address:
 Scheduled task ids:
