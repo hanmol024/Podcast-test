@@ -4,7 +4,7 @@ Claude ticks each step as it is finished (see ONBOARDING.md). If any box
 is empty, setup is not complete: resume at the first empty box.
 
 - [x] 1. Welcome; permission to save and publish; phone and podcast app
-- [ ] 2. About the listener
+- [x] 2. About the listener
 - [ ] 3. The ten topics
 - [ ] 4. Watchlist
 - [ ] 5. Sources
