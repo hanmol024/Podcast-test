@@ -54,8 +54,8 @@ Middle East | Middle East Eye | https://www.middleeasteye.net/rss |
 Middle East | France 24 ME | https://www.france24.com/en/middle-east/rss |
 Middle East | NPR Middle East | https://feeds.npr.org/1009/rss.xml |
 Middle East | Al Jazeera global | https://www.aljazeera.com/xml/rss/all.xml |
-Middle East | Guardian Israel-Palestine | https://www.theguardian.com/world/israel-palestine/rss |
-Middle East | +972 Magazine | https://www.972mag.com/feed/ | FULLTEXT
+Middle East | GN Guardian Palestine | https://news.google.com/rss/search?q=site%3Atheguardian.com+%28Gaza+OR+%22West+Bank%22+OR+Palestinian%29+when%3A3d&hl=en-GB&gl=GB&ceid=GB:en |
+Middle East | GN +972 Magazine | https://news.google.com/rss/search?q=site%3A972mag.com&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Middle East | GN Palestine | https://news.google.com/rss/search?q=%28intitle%3AGaza+OR+intitle%3A%22West+Bank%22+OR+intitle%3APalestinian%29+when%3A2d&hl=en-GB&gl=GB&ceid=GB:en |
 
 ## Africa
@@ -144,7 +144,7 @@ Health | STAT News | https://www.statnews.com/feed/ |
 Health | NYT Health | https://rss.nytimes.com/services/xml/rss/nyt/Health.xml |
 Health | NPR Health | https://feeds.npr.org/1128/rss.xml |
 Health | Healthcare Dive | https://www.healthcaredive.com/feeds/news/ |
-Health | Fierce Healthcare | https://www.fiercehealthcare.com/rss/xml |
+Health | GN Fierce Healthcare | https://news.google.com/rss/search?q=site%3Afiercehealthcare.com+when%3A7d&hl=en-GB&gl=GB&ceid=GB:en |
 Health | GN healthcare services deals | https://news.google.com/rss/search?q=%28intitle%3Ahealthcare+OR+intitle%3Ahospital+OR+intitle%3A%22care+homes%22%29+%28acquisition+OR+private+equity+OR+operator+OR+provider%29+when%3A7d&hl=en-GB&gl=GB&ceid=GB:en |
 
 ## Energy
