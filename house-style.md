@@ -25,7 +25,8 @@ included) are reported straight, with no jokes. Original lines only; never
 quote or imitate the show's own material, catchphrases or hosts.
 
 The episodes in `examples/` are the standard. Read them before drafting and
-match their shape, density and tone. Never imitate yesterday's briefing: a
+match their shape and density. Where an example's tone differs from the
+register above, the register above wins. Never imitate yesterday's briefing: a
 copy of a copy drifts.
 
 ## 2. Reading the digest
