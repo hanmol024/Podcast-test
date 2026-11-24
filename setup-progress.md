@@ -5,7 +5,7 @@ is empty, setup is not complete: resume at the first empty box.
 
 - [x] 1. Welcome; permission to save and publish; phone and podcast app
 - [x] 2. About the listener
-- [ ] 3. The ten topics
+- [x] 3. The ten topics
 - [ ] 4. Watchlist
 - [ ] 5. Sources
 - [ ] 6. Format: length, tone, weather place, voice, time, show name
@@ -19,3 +19,5 @@ is empty, setup is not complete: resume at the first empty box.
 Phone and podcast app: iPhone (presumed), Apple Podcasts
 Podcast address:
 Scheduled task ids:
+
+New interests needing sources (step 5): Mexico politics; Palestine (Gaza/West Bank); M&A; healthcare services.
