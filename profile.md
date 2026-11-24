@@ -59,10 +59,10 @@ This is the protected core. Full analytical depth, per `house-style.md`.
 ### Business
 <!-- EDIT: onboarding section 4 -->
 Included: large company news that says something about a sector; UK
+business conditions (costs, tax, regulation); results only when they move
 a wider story. Watched industry: healthcare services (hospital, clinic and
 care operators, outsourced and private providers, payers, regulation and
 reimbursement), covered whenever there is meaningful news.
-a wider story.
 Left out: routine executive moves and appointments; celebrity business.
 
 ### Deals and private equity
