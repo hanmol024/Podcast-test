@@ -1,7 +1,7 @@
 ======================================================================
-NEWS DIGEST for Tuesday 24 November 2026  [full digest]
-Built 03:14 UTC
-949 unique stories from 103 feeds (314 in full, 635 headline-only)
+NEWS DIGEST for Monday 23 November 2026  [full digest]
+Built 03:30 UTC
+932 unique stories from 103 feeds (312 in full, 620 headline-only)
 ======================================================================
 
 Every item below is dated. Check each date against today before treating anything as new.
@@ -15,7 +15,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 ## WORLD: EUROPE AND AMERICAS
 ######################################################################
 
---- UK (50) ---
+--- UK (51) ---
 
 * I pay £250 a month for someone else to do my life admin - it's worth it
   BBC UK | 24 Nov 00:01 UTC [also carried by: BBC Business]
@@ -28,7 +28,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   https://www.theguardian.com/environment/2026/nov/24/robert-macfarlane-trust-cop-climate-summit-deliver-change-misplaced
 
 * Burnham says it would be ‘unthinkable’ to rejoin EU without referendum
-  Guardian UK | 23 Nov 19:26 UTC [also carried by: Financial Times, Japan Times, Politico Europe, SCMP]
+  Guardian UK | 23 Nov 19:26 UTC [also carried by: Financial Times, GN Guardian Palestine, Japan Times, Politico Europe, SCMP]
   Prime minister also says former Tory premiers who have criticised revival of Brexit debate are ‘stuck in the past’ Andy Burnham has said it would be “unthinkable” for the UK to rejoin the EU without holding another referendum, offering his strongest commitment yet to directly consulting the public if he concludes Britain should go back in...
   https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu
 
@@ -37,23 +37,13 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Nebahat Isbilen claims her former adviser paid bribe in return for help with passport, but money was returned Andrew Mountbatten-Windsor was paid a £750,000 “bribe” in the hope of helping a Turkish woman with her passport, the high court has been told. Nebahat Isbilen is suing her former adviser, businessman Selman Turk, over allegations ...
   https://www.theguardian.com/uk-news/2026/nov/23/former-prince-andrew-was-paid-bribe-to-help-turkish-woman-with-passport-high-court-told
 
-* Concertgoers criticise ‘atrocious’ lack of security at Manchester Co-op Live gig
-  Guardian UK | 23 Nov 16:33 UTC [also carried by: GN Guardian Palestine]
-  Second person taken to hospital after suspected teargas released into crowd at gig where ticketless people were spotted ‘hopping barriers’ Concertgoers in Manchester have criticised an “atrocious” lack of security at the Co-op Live arena after suspected teargas left fans “screaming for help” and caused thousands to be evacuated. A second ...
-  https://www.theguardian.com/uk-news/2026/nov/23/concertgoers-criticise-security-manchester-co-op-live-arena
-
-* Children left without parental care after Home Office stops them joining father in UK
-  Guardian UK | 23 Nov 16:00 UTC [also carried by: GN Guardian Palestine]
-  Two boys, whose mother died in 2019, stuck in Ghana for a year after ‘irrational’ decisions to reject applications Two children aged 11 and 12 have been left in Ghana without parental care for a year after the Home Office denied multiple applications for them to join their father in the UK. Their Ghanaian father has launched a judicial re...
-  https://www.theguardian.com/uk-news/2026/nov/23/children-home-office-stops-joining-father-uk-ghana
-
 * Wild stock market swings: will I lose money, and is there anything I can do?
   Guardian UK | 23 Nov 14:51 UTC [also carried by: Guardian Business]
   Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments too It has been a volatile time on global stock markets, with rapid rallies and punishing sell-offs. There have been signs in recent weeks that investors are getting cold feet over the outlook for AI companies and selling off tec...
   https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments
 
 * Next issues cyber-attack warning after ‘benign’ data accessed by hackers
-  Guardian UK | 23 Nov 14:50 UTC [also carried by: BBC Business, GN Guardian Palestine]
+  Guardian UK | 23 Nov 14:50 UTC [also carried by: BBC Business]
   Retailer says it believes no personal data that could lead to fraud was accessed after hack of third-party supplier Next has warned that hackers have gained access to data relating to the clothing and homewares retailer through a technology supplier. The company, which has more than 800 stores in the UK and Ireland and sells via 200 store...
   https://www.theguardian.com/business/2026/nov/23/next-issues-cyber-attack-warning-after-benign-data-accessed-by-hackers
 
@@ -67,17 +57,28 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   One person was taken to hospital and more than 50 were assessed by medics after a substance, initially thought to be teargas, was released among concertgoers at Manchester’s Co-op Live arena, officials have said. Footage on social media showed concertgoers coughing and covering their mouths as they left a Don Toliver concert. Police decla...
   https://www.theguardian.com/uk-news/video/2026/nov/23/concertgoers-evacuated-after-unknown-substance-released-at-manchester-arena-video
 
-* Flagship UK gigafactory plan in turmoil after it loses second builder in five months
-  Guardian UK | 23 Nov 12:26 UTC [also carried by: GN Guardian Palestine]
-  Tata-owned Agratas plant to build EV batteries for sister company Jaguar Land Rover seen as crucial for long-term health of British car industry One of the UK’s flagship electric vehicle battery projects has been thrown into turmoil after its second building contractor in five months walked away, adding to questions over when Jaguar Land ...
-  https://www.theguardian.com/business/2026/nov/23/flagship-uk-gigafactory-turmoil-loses-second-builder
+* Asylum seekers removed from UK subjected to ‘unnecessary and intimidating’ force
+  Guardian UK | 23 Nov 12:23 UTC [also carried by: GN Guardian Palestine]
+  Incidents include suicidal man being carried on to plane in waist, leg and ankle restraints, official report says “Unnecessary and intimidating” behaviour was used against asylum seekers being deported under the UK’s controversial “one in, one out” scheme, including a vulnerable person being carried on to a flight in restraints, according...
+  https://www.theguardian.com/uk-news/2026/nov/23/asylum-seekers-removed-from-uk-unnecessary-and-intimidating-force
 
 * Capita boss exits and shares crash after civil service pensions failures
   Guardian UK | 23 Nov 10:01 UTC [also carried by: BBC Business, BBC UK, GN Guardian Palestine]
   Price plunges 70% as Adolfo Hernandez leaves with ‘immediate effect’ amid continued fallout from pension payment problems The chief executive of the troubled outsourcing group Capita has abruptly departed as he admitted it has “not delivered” for retired civil servants left waiting for pension payments. Adolfo Hernandez has agreed to step...
   https://www.theguardian.com/business/2026/nov/23/capita-boss-exits-shares-crash-civil-service-pensions-failures
 
-  ALSO IN UK (38), headline only:
+* Househunter swaps Australia for Wales' most affordable town - where locals are struggling to buy
+  BBC UK | 23 Nov 06:03 UTC [also carried by: BBC Business]
+  The area has attracted investors and even a buyer from Australia, but locals struggle to afford homes.
+  https://www.bbc.co.uk/news/articles/cjkgkdppk1nwo?at_medium=RSS&at_campaign=rss
+
+* Burnham not ‘backtracking’ on creating closer links with EU, officials say
+  Guardian UK | 23 Nov 06:00 UTC [also carried by: GN Guardian Palestine]
+  Government wants to let trade deal ‘breathe a bit’, insiders say, after speculation No 10 is dialling back ambitions Andy Burnham is not backtracking or delaying his ambitions to create even closer links with the EU in the wake of a landmark summit in Brussels, the Guardian has been told, after signs of an apparent slowdown in the timetab...
+  https://www.theguardian.com/politics/2026/nov/23/andy-burnham-not-backtracking-creating-closer-links-eu-officials-say
+
+  ALSO IN UK (39), headline only:
+  - Nearly four million in destitution across UK, study suggests (Sky News)
   - Children using vapes spiked with spice and THC, police warn (Sky News)
   - UK papers: 'Huang returns to Nvidia hotseat' and 'Burnham opens door to second referendum' (BBC UK)
   - Benefits review to suggest quicker payment for some disabled people (BBC UK)
@@ -102,22 +103,22 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Teenage girl stabbed multiple times by 14-year-old boy, murder trial told (BBC UK)
   - London Playbook PM: Banging on about Europe (Politico London Playbook)
   - Barbados town’s three-year deal with Bristol ‘part of the reparative process’ (Guardian UK)
+  - Concertgoers criticise ‘atrocious’ lack of security at Manchester Co-op Live gig (Guardian UK)
   - Jury out in train stabbing attempted murder trial (BBC UK)
+  - Children left without parental care after Home Office stops them joining father in UK (Guardian UK)
   - Mother and son riot ringleaders jailed for 'disgraceful' acts (BBC UK)
   - Restaurateur and sister cleared of murdering their 100-year-old mother (Sky News)
   - GTA 6 hacker released on licence with warning 'don't let this happen again' (BBC UK)
   - Two men admit sex offences in drugged wife case (BBC UK)
+  - Flagship UK gigafactory plan in turmoil after it loses second builder in five months (Guardian UK)
   - Paralympian charged with 11 counts of rape (BBC UK)
-  - Asylum seekers removed from UK subjected to ‘unnecessary and intimidating’ force (Guardian UK)
   - NHS caterer Compass ‘plans stock market switch’ in blow to London (Guardian UK)
   - 'I was left broken' - Woman taking civil case against 'church that failed her' (BBC UK)
   - Snow forecast as cold health alerts in parts of UK (Sky News)
   - Can’t take my eyes off of EU (Politico London Playbook)
-  - Househunter swaps Australia for Wales' most affordable town - where locals are struggling to buy (BBC UK)
-  - Burnham not ‘backtracking’ on creating closer links with EU, officials say (Guardian UK)
   - MPs urge Miliband to force UK overseas territories to publish public company registers (Guardian UK)
 
---- Europe (25) ---
+--- Europe (24) ---
 
 * Back to 1936? Civil war ghosts haunt Spanish election campaign
   Politico Europe | 24 Nov 03:00 UTC
@@ -169,18 +170,17 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Leader Ed Davey says deals struck on agrifood, energy and youth mobility at landmark summit are quite "timid."
   https://www.politico.eu/article/lib-dem-leader-ed-davey-claims-he-could-negotiate-eu-single-market-access-within-a-year/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
 
-* Ukraine responsible for drone strikes on two Russian ships off Libya, Zelenskyy says
-  Euronews | 23 Nov 05:58 UTC [also carried by: BBC Africa, Dawn]
-  The attacks came after a drone hit a Russian cargo ship in the eastern Baltic Sea on Saturday, close to the waters of Finland, whose border guard said the strike was Ukrainian.
-  https://www.euronews.com/2026/11/23/un-mission-in-libya-urges-probe-after-russian-ship-hit-by-drones-off-benghazi
+* Catherine, Princess of Wales, Documents Life With Cancer in BBC Film
+  NYT Europe | 23 Nov 15:41 UTC
+  “Cancer does change you,” Catherine, who is in remission, says in a trailer for the film. It will be released this month.
+  https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html
 
 * Nine people injured after gunfire at central California concert
   Euronews | 23 Nov 05:00 UTC [also carried by: GN Guardian Palestine]
   The sheriff's department said it believes the shooting "may be gang-related" but gave no further detail.
   https://www.euronews.com/2026/11/23/nine-people-injured-after-gunfire-at-central-california-concert
 
-  ALSO IN EUROPE (13), headline only:
-  - Catherine, Princess of Wales, Documents Life With Cancer in BBC Film (NYT Europe)
+  ALSO IN EUROPE (12), headline only:
   - Paolo Bulgari, Heir of Italian Jewelry Dynasty, Dies at 89 (NYT Europe)
   - South Korea’s education minister resigns after backlash over AI exam cheating rules (Euronews)
   - They Were Too Old to Enlist, but Not to Fight. Meet the Steppe Wolves of Ukraine. (NYT Europe)
@@ -231,6 +231,11 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   German Chancellor Friedrich Merz said Ukraine should have been admitted to NATO in 2008. He made the remarks at a joint press conference with NATO Secretary General Mark Rutte, Die Zeit reported.
   https://meduza.io/en/news/2026/11/24/german-chancellor-friedrich-merz-says-it-was-a-mistake-to-leave-ukraine-out-of-nato-in-2008
 
+* Russia detains Murmansk region Governor Andrey Chibis on suspicion of embezzlement
+  Meduza | 23 Nov 20:09 UTC
+  Andrey Chibis, the governor of Russia’s Murmansk region, has been detained on suspicion of theft and investigators are taking steps in the case involving him, TASS and RBC reported.
+  https://meduza.io/en/news/2026/11/23/russia-detains-murmansk-region-governor-andrey-chibis-on-suspicion-of-embezzlement
+
 * More than 700,000 Russian troops died in the war in Ukraine by late September 2026, Meduza and Mediazona estimate
   Meduza | 23 Nov 19:24 UTC [also carried by: NYT Europe]
   On November 1, news broke that hackers from the Belarusian Cyber Partisans and Silent Crow had breached the website of Rosstat, Russia’s federal statistics agency, and obtained data on Russian military losses in the war through fall 2026. The hackers used that data to produce their own estimate of how many Russians had been killed on the ...
@@ -241,13 +246,8 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Tajikistan has officially notified the United Nations that it is withdrawing from the Rome Statute and leaving the International Criminal Court, the Russian state news agency TASS reported.
   https://meduza.io/en/news/2026/11/23/on-day-of-putin-s-visit-tajikistan-notifies-un-of-withdrawal-from-international-criminal-court
 
-* Leaked data shows more than 1,000 Russian military suicides during Ukraine war
-  Guardian Ukraine | 23 Nov 16:00 UTC [also carried by: GN Guardian Palestine]
-  Exclusive: Figures from cache of 11m death certificates reveal suicides account for about a regiment of Russia’s war dead Russia’s war dead: the hidden toll of the Ukraine conflict In late October 2024, Alexei Bolgov, a sergeant guarding a military headquarters in the occupied Donetsk region, told his wife, Natalya, over the phone: “It’s ...
-  https://www.theguardian.com/world/2026/nov/23/leaked-data-shows-more-than-1000-russian-military-suicides-during-ukraine-war
-
 * Ukraine confirms it used naval drones to strike two Russian ships off Libya
-  Guardian Ukraine | 23 Nov 11:42 UTC [also carried by: NYT Europe]
+  Guardian Ukraine | 23 Nov 11:42 UTC [also carried by: BBC Africa, Dawn, Euronews, GN Guardian Palestine, NYT Europe]
   Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the corvette Merkury, one of Russia’s newest vessels. Ukraine’s security service, the SBU, said seve...
   https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya
 
@@ -257,7 +257,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   https://meduza.io/en/feature/2026/11/23/ukrainian-sea-drones-sink-russian-warship-in-libya-killing-russians-and-libyans
 
   ALSO IN EASTERN EUROPE (30), headline only:
-  - Russia detains Murmansk region Governor Andrey Chibis on suspicion of embezzlement (Meduza)
   - Germany sent tanks to Lithuania by rail instead of driving them through Poland ‘to avoid provoking Putin,’ Bild reports (Meduza)
   - Blasts and shrapnel account for 92% of recorded Russian military deaths in Ukraine, iStories reports. Gunshot wounds account for less than 2%. (Meduza)
   - If Trump, Xi and Putin are carving up the pudding, who gets the sixpence? | Letters (Guardian Ukraine)
@@ -268,6 +267,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - At least 720,000 Russian soldiers killed in Ukraine by fall 2026, Meduza and Mediazona estimate in new analysis that includes missing troops for the first time (Meduza)
   - Footage shows Ukrainian marine drones targeting Russian ships – video (Guardian Ukraine)
   - Serbia’s Student Movement Criticises European Parliament’s Vukovar Resolution (Balkan Insight)
+  - Leaked data shows more than 1,000 Russian military suicides during Ukraine war (Guardian Ukraine)
   - Russia’s war dead: the hidden toll of the Ukraine conflict (Guardian Ukraine)
   - Russia to spend 47 billion rubles on ferries to Kaliningrad amid fears of transport blockade (Meduza)
   - She moved from Russia to Germany to work as a nanny. She ended up founding a learning center for Russian-speaking children — and winning over skeptical local officials. (Meduza)
@@ -288,7 +288,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Cash Scandals, Arrests, Shrinking Alliances: Can Hungary’s Fidesz Survive? (Balkan Insight)
   - Climate Change Redraws Montenegro’s Winemaking Map (Balkan Insight)
 
---- North America (24) ---
+--- North America (25) ---
 
 * More American Women Are Turning to Natural Family Planning, Study Shows
   NYT US | 24 Nov 03:06 UTC [also carried by: NYT Health]
@@ -299,11 +299,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   NYT US | 24 Nov 01:31 UTC [also carried by: NYT Health]
   Walter Willett studies the link between diet and health, a high priority for Health Secretary Robert F. Kennedy Jr. His grants were frozen anyway.
   https://www.nytimes.com/2026/11/23/us/politics/walter-willett-trump-harvard.html
-
-* Trump’s Extraordinary Nvidia Intervention Sidelines National Security Concerns
-  NYT US | 24 Nov 00:55 UTC
-  President Trump’s move to put Jensen Huang back at the helm of Nvidia caps his indifference to the warnings of his own intelligence agencies.
-  https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-national-security.html
 
 * In Jensen Huang’s return, are national security concerns being shoved aside?
   CSM USA | 23 Nov 23:16 UTC [also carried by: CSM Politics, Foreign Policy]
@@ -340,6 +335,11 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.
   https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss
 
+* How important are Nvidia and Jensen Huang to the US economy?
+  BBC US Canada | 23 Nov 16:12 UTC [also carried by: BBC Business]
+  The Nvidia chief executive has been at the centre of the artificial intelligence boom.
+  https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss
+
 * The rise and fall and rise again of Jensen Huang
   BBC US Canada | 23 Nov 15:49 UTC [also carried by: BBC Business]
   Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.
@@ -350,7 +350,8 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   ICE said a man and a woman, who are said to be father and daughter and both Mexican nationals, were arrested for allegedly overstaying their visas.
   https://www.bbc.co.uk/news/articles/cmwy479wz91no?at_medium=RSS&at_campaign=rss
 
-  ALSO IN NORTH AMERICA (12), headline only:
+  ALSO IN NORTH AMERICA (13), headline only:
+  - Trump’s Extraordinary Nvidia Intervention Sidelines National Security Concerns (NYT US)
   - Turning the Lens Around: Bob Woodward Takes On Bob Woodward (NYT US)
   - Virginia School District Shaken by Sex Abuse Claims Closes for a Week (NYT US)
   - Trump Toasted Floyd Mayweather, Who Owes the IRS, at Crypto Gala (NYT US)
@@ -364,7 +365,12 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Squeezed for Space in Court Filings, Lawyers Get Typographically Creative (NYT US)
   - D.N.C. Plans 12 Debates for the 2028 Presidential Primary, Starting in June (NYT US)
 
---- Latin America (33) ---
+--- Latin America (34) ---
+
+* Mexico-US capture of drug lord gives lie to Sheinbaum’s “cooperation without subordination” - World Socialist Web Site
+  GN Mexico politics | 24 Nov 03:23 UTC
+  Mexico-US capture of drug lord gives lie to Sheinbaum’s “cooperation without subordination” World Socialist Web Site
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwYmFjM3YydGVLVVZrMlF3WVN1TTJtMU9RVXEyR215d0tKSEZ5WnJmX09ndFNjRmo3ZU9XbmVfS1l3ejhnTkYxWnlIdkhuUXJjWm5MS1FxcmVTQmJTdHgwQ2wtTHlaa0pW?oc=5
 
 * US flew surveillance drone over Mexico to help capture top drug lord - France 24
   GN Mexico politics | 24 Nov 02:09 UTC
@@ -416,27 +422,23 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Brazil's Finance Ministry has cut its economic growth forecast for 2027 from 2.3% to 1.8% and raised its inflation forecast from 3.8% to 4.5%, the upper limit of the official target, according to its November Macrofiscal Bulletin. The government attributes the slowdown to high interest rates and more expensive credit.
   https://en.mercopress.com/2026/11/23/brazil-cuts-its-2027-growth-forecast-to-1.8-and-raises-inflation-to-the-top-of-its-target?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss
 
-* Uruguay will not announce its CPTPP accession this year and will consult business and unions
-  MercoPress | 23 Nov 21:36 UTC
-  Uruguay's Foreign Minister Mario Lubetkin has ruled out the government announcing before the end of the year the country's accession to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP), and said it will not move forward without consulting business and trade unions.
-  https://en.mercopress.com/2026/11/23/uruguay-will-not-announce-its-cptpp-accession-this-year-and-will-consult-business-and-unions?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss
-
 * COP31 ends without a major climate deal amid divisions over fossil fuels
   MercoPress | 23 Nov 04:12 UTC [also carried by: Ars Technica]
   The UN COP31 climate summit in the Turkish city of Antalya ended on Sunday without a major political agreement, after deep divisions between countries over fossil fuels and finance for the poorest. It is the first time since the 2009 Copenhagen summit that the main declaration of one of these conferences has collapsed in this way.
   https://en.mercopress.com/2026/11/23/cop31-ends-without-a-major-climate-deal-amid-divisions-over-fossil-fuels?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss
 
-  ALSO IN LATIN AMERICA (21), headline only:
+  ALSO IN LATIN AMERICA (22), headline only:
+  - Uruguay will not announce its CPTPP accession this year and will consult business and unions (MercoPress)
   - Farmacias Guadalajara, the national drugstore chain, introduces robot technology in its customer service (Mexico News Daily)
   - Mexico says U.S. not directly involved in cartel leader capture, even as Trump praises operation - KJZZ (GN Mexico politics)
   - Mexico says more than a dozen cartel suspects have been killed days after Sheinbaum's talks with Trump - TAG24 NEWS USA INC (GN Mexico politics)
-  - U.S. intelligence helped Mexico capture ‘Chapo Isidro,’ Sheinbaum says - WTNH.com (GN Mexico politics)
   - MND Local Guadalajara: A chocolate fair, Tame Impala, Navidalia and art contemplating longevity (Mexico News Daily)
   - 49ers give their ample Mexican fan base something to cheer about, 35-10 (Mexico News Daily)
   - 8 more arrested in Sinaloa after firefight with soldiers, bringing weekend total to 16 (Mexico News Daily)
   - Is Mexico Stepping Up in the War on Drugs? - The New York Times (GN Mexico politics)
   - US Intel Helped Nab Mexico Cartel Leader Without Agents on Site - Livemint (GN Mexico politics)
   - Inside Friday’s takedown of ‘El Chapo Isidro’: Monday’s mañanera recapped (Mexico News Daily)
+  - U.S. intelligence helped Mexico capture ‘Chapo Isidro,’ Sheinbaum says - KTSM 9 News (GN Mexico politics)
   - Capture Of El-Chapo Isidro Triggers Violence, Arrests In Mexico - Channels Television (GN Mexico politics)
   - In Mexico, Sheinbaum’s Counter-Cartel Strategy Is Paying Off - World Politics Review (GN Mexico politics)
   - Mexican soldiers attacked in wake of drug lord's arrest (BBC Latin America)
@@ -453,7 +455,17 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 ## WORLD: MIDDLE EAST AND AFRICA
 ######################################################################
 
---- Middle East (149) ---
+--- Middle East (145) ---
+
+* Mexico to try ‘El Chapo Isidro’ despite US extradition request
+  Al Jazeera global | 24 Nov 03:20 UTC [also carried by: GN Mexico politics]
+  Fausto Meza Flores faces drug trafficking and weapons charges after his capture in a violent Sinaloa operation.
+  https://www.aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request?traffic_source=rss
+
+* Israel seeks to jail Palestinian student activist without trial after dorm arrest - The Guardian
+  GN Guardian Palestine | 24 Nov 02:30 UTC [also carried by: GN Palestine]
+  Israel seeks to jail Palestinian student activist without trial after dorm arrest The Guardian
+  https://news.google.com/rss/articles/CBMisgFBVV95cUxPdzduMTgyZDN5LUpBdFlFX21HS2E2RXMxRUlTQlp0WEY2djIxY2ticjNvX2w0aWdnTjBMYk90eHMzX3g0UTREODNiZjBaQXEtX2hIRGlJZTM1bWtzdC1zYWdGcDJRSTBoUGppVmFITUJKSE5JX05XcE1aZ1g1Q3VJSW1mVE1UVDBoM2htY0JyQkx5bUpfeHE1SjhVbS1fNHpkUXpEcEo5cTA4ZDNRenZCZzl3?oc=5
 
 * Germany taking seriously reports Russia may be planning to launch nuclear weapons into space - The Guardian
   GN Guardian Palestine | 24 Nov 02:30 UTC [also carried by: Japan Times]
@@ -495,11 +507,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   To reach hospitals in the occupied West Bank, Palestinian ambulance drivers navigate Israeli checkpoints and road closures. Rights groups say wait times have spiked and medics have been attacked.
   https://www.npr.org/2026/11/23/nx-s1-6043661/in-west-bank-ambulance-drivers-say-israeli-checkpoints-are-dangerous-obstacles-to-work
 
-* Israel seeks to jail Palestinian student activist without trial after dorm arrest - The Guardian
-  GN Guardian Palestine | 23 Nov 21:18 UTC [also carried by: GN Palestine]
-  Israel seeks to jail Palestinian student activist without trial after dorm arrest The Guardian
-  https://news.google.com/rss/articles/CBMisgFBVV95cUxPdzduMTgyZDN5LUpBdFlFX21HS2E2RXMxRUlTQlp0WEY2djIxY2ticjNvX2w0aWdnTjBMYk90eHMzX3g0UTREODNiZjBaQXEtX2hIRGlJZTM1bWtzdC1zYWdGcDJRSTBoUGppVmFITUJKSE5JX05XcE1aZ1g1Q3VJSW1mVE1UVDBoM2htY0JyQkx5bUpfeHE1SjhVbS1fNHpkUXpEcEo5cTA4ZDNRenZCZzl3?oc=5
-
 * Jared Kushner says Israel becoming 'global-pariah state'
   Middle East Eye | 23 Nov 21:16 UTC [also carried by: GN Palestine]
   Jared Kushner says Israel becoming 'global-pariah state' In an interview with New York Magazine, US special envoy Jared Kushner said Israel is on a path towards becoming a "global-pariah state". Kushner, who has been highly active in Middle East negotiations, described Israel as standing at a crossroads after 7 October 2023. "[Israel] cou...
@@ -510,25 +517,22 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Virginia and Oregon filed separate lawsuits on Monday, accusing the company of promoting Grok's 'spicy mode'.
   https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material?traffic_source=rss
 
-* Jensen Huang reinstated as Nvidia chief: How did we get here?
-  Al Jazeera global | 23 Nov 20:22 UTC [also carried by: BBC Business, BBC US Canada]
-  Just 11 days after resigning over a suspected espionage scandal, Jensen Huang has been reinstated as Nvidia’s CEO.
-  https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-reinstated-as-nvidia-chief-how-did-we-get-here?traffic_source=rss
-
-  ALSO IN MIDDLE EAST (137), headline only:
+  ALSO IN MIDDLE EAST (133), headline only:
   - Excavator threatens sacred alpine lake in the Himalayas (Al Jazeera global)
   - Arctic air brings colder temperatures to Europe this week - The Guardian (GN Guardian Palestine)
   - Video of ICE detaining father and daughter while boarding flight sparks protests in Seattle - The Guardian (GN Guardian Palestine)
+  - Millennial Democrats used social media in the midterms to sell their policies – and their personalities - The Guardian (GN Guardian Palestine)
   - UN chief calls for world to agree on AI oversight within a year (Al Jazeera global)
   - Israeli army storms Syrian village (Middle East Eye)
   - UN deputy chief says there’s 'no excuse for inaction' as Gaza suffering continues - Anadolu Ajansı (GN Palestine)
   - Monday: Israeli Invasions, Colonizer Attacks Across West Bank - - IMEMC News (GN Palestine)
   - PCHR: "Israeli Occupation Forces Kill 15 Palestinians in Gaza, Intensify Incursions and Destruction" - - IMEMC News (GN Palestine)
+  - Occupied Palestinian Territory Emergency Response Activity Update #61, 1 - 31 October 2026 [EN/AR] - ReliefWeb (GN Palestine)
   - Iran vows to use 'all avaliable tools' to confront US naval blockade (Middle East Eye)
   - Israeli minister approves return of Flydubai flights to Tel Aviv (Al Jazeera global)
   - Bukele shares details on deaths of Salvadoran troops in Haiti intervention (Al Jazeera global)
   - First Thing: Cop31 talks collapse without deal in blow to planet’s future climate - The Guardian (GN Guardian Palestine)
-  - More critically injured children arrive in UK from Gaza for NHS treatment - Doctors.net.uk (GN Palestine)
+  - How did Israeli drone operations in Lebanon and Gaza influence U.S. military drone development? - Britannica (GN Palestine)
   - What could Democrats do with their expanding congressional majority? (Al Jazeera global)
   - Turns out it wasn’t a lion afterall (Al Jazeera global)
   - Israeli drone strike kills 3 Palestinians at Gaza police post - Anadolu Ajansı (GN Palestine)
@@ -538,9 +542,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Iran war live: Iran says three ships catch fire after hitting Hormuz mines (Al Jazeera global)
   - Mamdani blasts AI-reliant stock market after Jensen Huang’s return (Al Jazeera global)
   - Drone attack on police base in Colombia injures three, including infant (Al Jazeera global)
-  - How freaked out should we be? After mass outages, experts tell us how close we are to ‘doomsday’ - The Guardian (GN Guardian Palestine)
   - Seven Israeli teenagers arrested during West Bank outpost raid in closed military zone - The Jerusalem Post (GN Palestine)
-  - Natural beauty made this New Zealand tourist village. Now it threatens its existence - The Guardian (GN Guardian Palestine)
   - EU plans sports ban in sweeping new Russia sanctions proposal (Al Jazeera global)
   - Rights group details 'surge' in violent attacks on Palestinian health-care workers - CBC (GN Palestine)
   - Russian FM Discusses Middle East Settlement with Gaza Board Representative - Fana News - (GN Palestine)
@@ -551,6 +553,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Analysis • There's a plan for Gaza's future but Netanyahu prefers Hamas in power - Haaretz (GN Palestine)
   - ‘Is it possible for any government to run that way?’: Americans outraged over tech outages - The Guardian (GN Guardian Palestine)
   - Three tankers explode in Strait of Hormuz (Middle East Eye)
+  - Iranian singer and four others receive lashes after performance without hijab - The Guardian (GN Guardian Palestine)
   - The ruling against Myanmar makes proving genocide more feasible | Kenneth Roth - The Guardian (GN Guardian Palestine)
   - Qatar needs US and Iran to resume talks to end war, PM says (Middle East Eye)
   - Israel’s southern Syria incursion triggers fear and destruction (Al Jazeera global)
@@ -558,7 +561,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - The moral contradiction Jewish Americans can no longer avoid - +972 Magazine (GN +972 Magazine)
   - US drug prices leave patients facing impossible choices (Al Jazeera global)
   - Gaza war has undone 77 years of human development, UN warns - UN News (GN Palestine)
-  - Lech Walesa calls for Nobel peace prize for US president – no, not that one - The Guardian (GN Guardian Palestine)
   - 2026 International Day of Solidarity with the Palestinian People - Welcome to the United Nations (GN Palestine)
   - Iran flogs singer Parastoo Ahmadi for performing without headscarf (Al Jazeera global)
   - US could send troops back to Syria in training role, says report (Middle East Eye)
@@ -573,8 +575,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Israeli airstrikes in Gaza have killed at least three people, including an employee of the United Nations Relief and Works Agency for Palestine Refugees (UNRWA). Reuters reported on Monday, November 23, that Adel al-Helou, an UNRWA staff member, was - Facebook (GN Palestine)
   - Federal court clears way for army to detonate bomb-making chemicals in Iowa - The Guardian (GN Guardian Palestine)
   - ‘Left to Bleed’: Israeli Attacks on West Bank Healthcare Surge over 350% - Palestine Chronicle (GN Palestine)
-  - KSrelief Distributes 521 Food Baskets in Gaza Strip - وكالة الأنباء السعودية (GN Palestine)
-  - ‘Pervert glasses’ named word of the year by Macquarie dictionary, ahead of ‘nudify’ and ‘AI;DR’ - The Guardian (GN Guardian Palestine)
   - The New York Times. . Extremist Israeli settlers carried out violent overnight raids on Palestinian villages in the West Bank on Sunday, which several Israeli political figures called “Jewish terrorism.” https://nyti.ms/3XJFYAf - Facebook (GN Palestine)
   - Writers unhappy with PEN America's response to war in Gaza form new chapter - PBS (GN Palestine)
   - Israeli attacks on occupied West Bank medics surge by 350% - Morning Star | The People’s Daily (GN Palestine)
@@ -583,14 +583,15 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - US imposes new Iran-related sanctions (Middle East Eye)
   - Today's top news: Ukraine, Yemen, Sudan, Occupied Palestinian Territory - OCHA (GN Palestine)
   - 20 students to leave Gaza for Ireland after winning visa battle: Report - Middle East Monitor (GN Palestine)
+  - Louf Review: A Taste of Palestinian History in Every Bite - POV Magazine (GN Palestine)
   - Houthi-run government says Saudi air strikes killed civilians in Lahj (Middle East Eye)
   - Israeli settlers' move into a Palestinian neighborhood brings deadly violence to Jericho's doorstep - Los Angeles Times (GN Palestine)
   - Pro-Palestinian activist jailed for 10 years over incendiary attacks in Norwich - Jewish News (GN Palestine)
   - Israeli contestant with 'peace' costume booed at Miss Universe 2026 (Middle East Eye)
   - Feature: Struggle for Palestinian land, one olive grove at a time - Xinhua (GN Palestine)
   - Video: Israeli Leaders Denounce Settler Attacks in West Bank - The New York Times (GN Palestine)
+  - Mamdani says New York will cap ebike fares to ‘significantly’ cut cost of rides - The Guardian (GN Guardian Palestine)
   - France condemns ‘very serious’ attacks by ‘violent settlers’ on several Palestinian localities in West Bank - Middle East Monitor (GN Palestine)
-  - Words are not enough after the Myanmar genocide ruling. The world can do better – but it must take these steps - The Guardian (GN Guardian Palestine)
   - Palestinian Child Loses 26 Kilograms amid Food Deprivation in Ofer Prison - Palestine Chronicle (GN Palestine)
   - Can you solve it? How Super Mario explains Renaissance art - The Guardian (GN Guardian Palestine)
   - Iranian army says it destroyed US drone over Persian Gulf (Middle East Eye)
@@ -601,6 +602,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - President Herzog condemns West Bank violence by ‘Jewish extremists’ while warning Israel is being ‘demonised’ - The Jewish Chronicle (GN Palestine)
   - Israeli Settlers Attack Palestinian Villages, Setting Fires and Spray-Painting Racist Graffiti - Democracy Now! (GN Palestine)
   - Israeli Attacks on Gaza Kill Palestinians Delivering Aid and Worker with U.N. Agency - Democracy Now! (GN Palestine)
+  - Letter: Jeffrey Archer obituary - The Guardian (GN Guardian Palestine)
   - Israeli soldiers assault Palestinian after raiding his home - Al Jazeera (GN Palestine)
   - Explosions reported in Strait of Hormuz (Middle East Eye)
   - Palestinian medics in West Bank face rising Israeli attacks, rights group says - Arab News (GN Palestine)
@@ -613,7 +615,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Chemicals, Covid and cabbage: why 2026 has been an amazing year for documentaries - The Guardian (GN Guardian Palestine)
   - Israel’s destruction of Gaza has created a ‘toxic wasteland’, experts find - The Guardian (GN Guardian Palestine)
   - Netanyahu’s rival condemns ‘Jewish terrorism’ in West Bank - The Telegraph (GN Palestine)
-  - Israeli report raises concerns over proposed US sanctions on West Bank settlers and businesses - Middle East Monitor (GN Palestine)
   - More than 99 percent of Gaza shows indicators of environmental contamination from Israel’s military assault - Oxfam (GN Palestine)
   - Inside Gaza - Journalists in the Danger Zone - DW.com (GN Palestine)
   - Israel is still displacing Palestinians in Gaza, expanding its ‘yellow line’ deeper into the strip every day - Mondoweiss (GN Palestine)
@@ -627,27 +628,24 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Families from Gaza arrive in the UK for expert NHS care - The Independent (GN Palestine)
   - Palestine Logistics Cluster - Concept of Operations (ConOps) November, 2026 - ReliefWeb (GN Palestine)
   - WCC statement: “Continued Suffering of the People of Gaza and the Occupied Palestinian Territories” - World Council of Churches (GN Palestine)
-  - Israeli MP invokes internment of Japanese Americans in call to restrict Palestinian citizens - Middle East Eye (GN Palestine)
   - Second group of sick Gaza children arrives in UK for NHS treatment - Jewish News (GN Palestine)
+  - 2nd group of critically ill and injured Gaza children arrive in UK for 'specialist treatment' - Anadolu Ajansı (GN Palestine)
   - Palestinian prisoners lose dozens of kilograms in Israeli jail amid food shortages, medical neglect: Report - Anadolu Ajansı (GN Palestine)
   - Israeli forces detain dozens during West Bank refugee camp raid - Sky News (GN Palestine)
   - From Gaza's ruins, Palestinian women are rising to tell their stories on film - Middle East Eye (GN Palestine)
   - Trump administration deported US citizen to Mexico, DoJ admits in court - The Guardian (GN Guardian Palestine)
-  - Chamonix mayor plans tourist limits for Alpine beauty spot - The Guardian (GN Guardian Palestine)
   - Country diary: Top deck of the bus for the finest views of autumn | John Gilbey - The Guardian (GN Guardian Palestine)
-  - Israel Uncovers More Gaza Tunnels After Years of Devastating War - ASHARQ AL-AWSAT English (GN Palestine)
   - Occupied West Bank ‘military zones’ become de facto Israeli settler land - Al Jazeera (GN Palestine)
   - Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya (NPR Middle East)
   - Who Is Still Alive review – grief-stricken stories of the places and people lost in Gaza - The Guardian (GN Guardian Palestine)
   - Network of informants help Palestinian radio station broadcast Israeli checkpoints (NPR Middle East)
+  - Doula thought self-described birth keeper was clinically trained before NSW baby death, inquest hears - The Guardian (GN Guardian Palestine)
   - Miliband accuses shadow foreign minister of undermining ICJ’s genocide ruling - The Guardian (GN Guardian Palestine)
   - ‘Environmental crimes’: Israel blamed for toxic pollution in 99% of Gaza - Al Jazeera (GN Palestine)
   - Up to 1.1m people eligible to join class action against Jetstar over alleged failure to refund Covid flights - The Guardian (GN Guardian Palestine)
-  - Unemployment to surpass 5% and ‘things will get a bit harder’, treasurer Jim Chalmers warns - The Guardian (GN Guardian Palestine)
   - Monday briefing: What could Andy Burnham’s reset mean for the UK? - The Guardian (GN Guardian Palestine)
   - Would you pay to have the ‘best baby’? Liberal eugenics and the troubling quest for human perfection – podcast - The Guardian (GN Guardian Palestine)
   - Ukraine war briefing: Russian cargo ship hit by drone in Baltic Sea as Finland PM says conflict ‘spilling over’ - The Guardian (GN Guardian Palestine)
-  - Cop31’s big fossil fuel failure – Full Story podcast - The Guardian (GN Guardian Palestine)
   - Hebrew University let Israel abduct a Palestinian student. That’s no surprise - +972 Magazine (GN +972 Magazine)
   - Gaza’s displaced families ‘helpless’ as winter threatens their lives - +972 Magazine (GN +972 Magazine)
   - ‘We, the Palestinian citizens, stopped Israel’s government of extermination’ - +972 Magazine (GN +972 Magazine)
@@ -966,7 +964,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Malaysia’s Anwar says easier to deal with China than US amid tech tensions (SCMP)
   - What’s at stake and the battlegrounds to watch as Taiwan heads to the polls (SCMP)
   - Israel leadership rivals clash over Iran threat ahead of coalition talks (SCMP)
-  - Trump targets Newsom and Democrats in Justice Department speech focused on violent crime (SCMP)
+  - Trump targets Newsom and Democrats in speech focused on violent crime (SCMP)
   - US says detained Princeton PhD student from China overstayed visa in 2016 (SCMP)
   - U.N. food agency chief warns wars jeopardize food aid for 7.3 million more people (Japan Times)
   - Germans reject choosing between US and China as faith in the West crumbles (SCMP)
@@ -1170,10 +1168,10 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Almaty’s 45,000-Seat Stadium Undergoes Ground Testing Ahead of Foundation Work (Astana Times)
   - More Than 40 Startups to Compete for $50,000 at INMerge 2026 in Baku (Astana Times)
 
---- Pacific (74) ---
+--- Pacific (73) ---
 
 * Australian politics live: Greens secure ‘multibillion dollar fines’ for big tech in digital duty of care; ANZ predicts RBA will cut rates in June
-  Guardian Australia | 24 Nov 02:52 UTC
+  Guardian Australia | 24 Nov 03:18 UTC
   Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government only gives us a few days notice for the mid-financial year ...
   https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb
 
@@ -1222,17 +1220,18 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Individual Australians will be able to sue big tech companies for harm suffered online under compromise deal announced on Tuesday Get our breaking news email , free app or daily news podcast Big tech companies could be hit with “multi-billion dollar” fines and individuals could sue social media companies in court, under Australia’s new di...
   https://www.theguardian.com/technology/2026/nov/24/social-media-big-tech-fines-global-revenue-australia-digital-duty-care-laws
 
-* What Victoria's upper house might look like after the state election
-  ABC Australia | 24 Nov 02:04 UTC
-  Expect to see a huge number of new faces on the red benches of the Legislative Council and a lot of current members defeated at the ballot box.
-  https://www.abc.net.au/news/2026-11-24/what-victorian-upper-house-will-look-like-after-state-election/107419706
-
 * Collapsed COP31 talks better than 'sham' deal ignoring fossil fuels, Chlöe Swarbrick says
   RNZ | 23 Nov 20:13 UTC [also carried by: NYT Environment]
   The Green Party co-leader said the government needed to "get off the fence" and support those who wanted to see the inclusion of fossil fuels in the agreement.
   https://www.rnz.co.nz/news/political/2756483/collapsed-cop31-talks-better-than-sham-deal-ignoring-fossil-fuels-chloe-swarbrick-says
 
-  ALSO IN PACIFIC (62), headline only:
+* Constitutional law expert brands defence bill allowing secret security rules ‘lazy and irresponsible’
+  Guardian Australia | 23 Nov 08:23 UTC [also carried by: GN Guardian Palestine]
+  Anne Twomey says lack of proper debate around bill is ‘flabbergasting’ amid concerns over extension of ministerial powers Get our daily political email , free app or daily news podcast Labor’s new defence bill is “lazy and irresponsible” lawmaking, one of Australia’s leading constitutional scholars has warned, claiming provisions for the ...
+  https://www.theguardian.com/australia-news/2026/nov/23/constitutional-law-expert-brands-defence-bill-allowing-secret-security-rules-lazy-and-irresponsible
+
+  ALSO IN PACIFIC (61), headline only:
+  - What Victoria's upper house might look like after the state election (ABC Australia)
   - A slash-and-burn budget update could push Australia into a recession. Jim Chalmers has a fine line to tread | Patrick Commins (Guardian Australia)
   - Lamarre-Condon's 'disorganised' cover-up supports self-defence claim, jury told (ABC Australia)
   - Sogavare warns Solomon Islands government against ditching China security pact (RNZ)
@@ -1291,10 +1290,8 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Tonga NGO supplies water tanks to drought-hit Ha'apai households (RNZ)
   - Anti-privatisation group wants Christchurch to keep public ownership of fibre network (RNZ)
   - Cop31 collapses: why did climate talks fall apart? - The Latest (Guardian Australia)
-  - Lead detected in fish caught near Saipan lagoon (RNZ)
   - Queensland has a history of slavery. These unmarked graves tell Australia's dark history – video (Guardian Australia)
   - International students didn’t cause Australia’s university crisis. Funding failures did | Kate Fullagar and Michelle Arrow (Guardian Australia)
-  - Constitutional law expert brands defence bill allowing secret security rules ‘lazy and irresponsible’ (Guardian Australia)
 
 ######################################################################
 ## POLITICS AND CONFLICT
@@ -1420,7 +1417,12 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 ## ECONOMY AND BUSINESS
 ######################################################################
 
---- Economy (9) ---
+--- Economy (10) ---
+
+* Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed
+  NYT Economy | 24 Nov 03:25 UTC
+  Lawmakers released confidential information showing the Commerce Department had approved sales of more than 800,000 A.I. chips to Chinese companies, some with military ties.
+  https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html
 
 * OpenAI engineer possessed dozens of meeting recordings, say US prosecutors
   Financial Times | 24 Nov 01:31 UTC
@@ -1490,7 +1492,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss
 
 * Carry cash and know your rights: how to fly in the US this Thanksgiving holiday
-  Guardian Business | 23 Nov 11:00 UTC [also carried by: GN Guardian Palestine]
+  Guardian Business | 23 Nov 11:00 UTC
   Amid air chaos, travelers will have to navigate an outdated system (and complex company policies if it all goes wrong) Millions of people are planning to fly in the US over the Thanksgiving holiday, just two weeks after the US Federal Aviation Administration’s 13 November ground stop halted all flights nationwide for the first time since ...
   https://www.theguardian.com/global/2026/nov/23/thanksgiving-air-travel-us-explainer
 
@@ -1524,7 +1526,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   While Argentina and the UK dispute sovereignty over the islands and its vast oil reserves, environmentalists fear for one of the Atlantic’s richest ecosystems From the air, the main Falkland Islands form two large, jagged shapes against the South Atlantic. East Falkland and West Falkland are surrounded by 778 smaller islands and islets ea...
   https://www.theguardian.com/global-development/2026/nov/23/falkland-islands-argentina-sea-lion-oil-environment-sovereignty-wildlife-pollution
 
---- Deals (50) ---
+--- Deals (43) ---
 
 * Marvell to Acquire Lumentum in $115 Billion AI Optical Connectivity Deal - The Fast Mode
   GN acquisitions | 24 Nov 01:52 UTC
@@ -1561,11 +1563,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Amazon.com, Inc. signed an agreement to acquire Decart AI Ltd for an estimated $7.5 billion. marketscreener.com
   https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdmRnWlZ1aXBRSktnUjFid2Rkb1hTQjJmZ1BJb21Lbkxjbml0OUtBT0ZBeURtZnZ5UDlqQ2QtOFpaTElYU0FQSmJxRWI5eTBycThBV1Z3aXhpX1Z1QjZuQzYzTU5wS2cwWnpFMlFkY09MSWtwakw4VkZLZEJJR0lXendlaE1oVXl5MEVPb2xIWE56TFJVVUZ6cTVLU2k5M2VNbjYtcWFnNUZ1T0NHUGtIanhJdTQ1V0Z2b00tb1k3RE4xUDhxN3phNlpxODlnazEyZWYtVVRickc?oc=5
 
-* Alta Equipment Group to Acquire Jackson Group Peterbilt in $399 Million Deal, Backed by Viking Investment - Quiver Quantitative
-  GN acquisitions | 23 Nov 21:22 UTC
-  Alta Equipment Group to Acquire Jackson Group Peterbilt in $399 Million Deal, Backed by Viking Investment Quiver Quantitative
-  https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbDVaVGdKR1A5V1g4bHM4dm1fc2daWFlWdFMxZ1FJSUR2Y0JXb25fUUR5N3hBaFFGQmNFUm9tdmpqQ1V5WGY2b3g5SWtrME1ZbUc4RE9yWHZYb1BfczdzWnF3LXZOclhnbkRCSDh4djJNWUxQbzRWWjBwYUFLelFlekVFU0hxcDV4cVIyRW1rN0RYSUxTLW1VUjVEN3gyVDlQUy0zV2YzQ3gxYS13MEo1Q1V4UFA2YTZqTUVHd0swc2lYZ3dLd0VIMVFsaDlZUUNwelF5d3A3WW4zZw?oc=5
-
 * Zscaler Stock Surged on CrowdStrike's $43.9 Billion Buyout. Here's How Much Shareholders Will Actually Get - Yahoo Finance
   GN acquisitions | 23 Nov 21:18 UTC
   Zscaler Stock Surged on CrowdStrike's $43.9 Billion Buyout. Here's How Much Shareholders Will Actually Get Yahoo Finance
@@ -1576,20 +1573,22 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   IDR raises over $1bn for core and core-plus secondaries PERE
   https://news.google.com/rss/articles/CBMiogFBVV95cUxNMk9rX2lRSVRJNy0xSllobUt6dm9JaTNMblhFY09IZ2lsT2pQVGF6MnU3TFpzWUV6ZVdsWnFsZVFwai12YjczbWM1Yzk5bmNZMHhpSkstZGd1Y0EtczdUUk93YmtrQTdaWll1MWE0R3lhWURpWnBILWpXdmhUQzdtakVjWFBZMTZZYmlzRS14QWFTNXBBQ0pQaFd2RUw2bjlxdFE?oc=5
 
-* CrowdStrike's $44B Zscaler Bet: Why Wall Street Sold the News - MarketBeat
-  GN acquisitions | 23 Nov 18:59 UTC
-  CrowdStrike's $44B Zscaler Bet: Why Wall Street Sold the News MarketBeat
-  https://news.google.com/rss/articles/CBMimwFBVV95cUxOVDBsYjJKVHlMVTZGZmRVZ1VSdnpWYVg2LTBLSnNXWmR1MEEzSmkxLWEzM2g1cVpISENDSjl0TlYyX2QzYVFzM1FZRU91NERlcWVQUkJwMng2ckFxNTRFTkJHZFJNQWRzbE5USXQ2eTdXb2EzeDR4U3RIS1lOV2FNb2lRZ3JqaUZ2VWlFZEdPclpEYk5QYzZfYWpRaw?oc=5
+* Vår Energi to acquire ConocoPhillips' Norway business, including Greater Ekofisk operatorship, in $4.4-billion deal - Oil & Gas Journal
+  GN acquisitions | 23 Nov 17:17 UTC
+  Vår Energi to acquire ConocoPhillips' Norway business, including Greater Ekofisk operatorship, in $4.4-billion deal Oil & Gas Journal
+  https://news.google.com/rss/articles/CBMigAJBVV95cUxNUHFfWVU4elJqLUpsVGNXXzFIODRMY0ZFXzhGQTdHdHVmc0d6UEN6LUpHeUtFRG91SkhITzZDd3NzbHhxOFNGUENJWGV4X1c0QktRZVdkOURaemZpRkhqY1Z1VXJvdklVQVk3eTZLcGNRRnZQa2lSalhDSjVOQWZ3YXpZekd0VUFnVXE3SW43cEtQNHBDd29VRkJneTJhUGNmeFZzLXJuNWdlOUh3T2JLNUx5TU9vRDJtVmhSemNQdEhJUy1IaTRxbWREeEZfODFfQUd3Y1BETGM2UnNxVm1NS1BkVmdweXNyYk82SEFacDlhZVQ5WnZab1ZDVGgwdVNa?oc=5
 
-* Healthcare-focused Alkemi Growth Capital to raise $150-M third fund - Venture Intelligence News
-  GN PE fundraising | 23 Nov 04:22 UTC [also carried by: GN healthcare services deals]
-  Healthcare-focused Alkemi Growth Capital to raise $150-M third fund Venture Intelligence News
-  https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGU2VWs0TzBTQWhjaWx2bHNmaHVYVGNCajh2U19NQ1ZRby1TS2x3Yk1tSjZNdjc3a3dHSUN0QWZmU0Z5WXVrZ3YxT2ZQVlBxaXNJZWo2d1lRS1dERWpFSWRKbllsejhwVXlLWjM4WmZCUWJIUGNfdkstaVo2MzZyOURjdjNtWDBLRHZWcjRwbU1iREp3aUk5SmdvTGRnbkt6bTZiMUo3NW9IUjJKVHFYSXZneUJTSGhvTlpR?oc=5
+* CrowdStrike Buys Cybersecurity Firm Zscaler for $44 Billion - PYMNTS.com
+  GN acquisitions | 23 Nov 17:16 UTC
+  CrowdStrike Buys Cybersecurity Firm Zscaler for $44 Billion PYMNTS.com
+  https://news.google.com/rss/articles/CBMiowFBVV95cUxQWi1HMi0yREptZm95cnkzNF9FbWVvaVFNbnA3VDVIRUZlS2ZrWTcyZFlsRmhzeC1qM3NKTkdzSjhCRzNKc1hYM2NlUkN6MWRSWXFVMmZ5LUVjY1JCYU9fMEozWDJwcEpNN01xT0ZVb2RsVlViSUJPcnNVX0h6NDliNDd1VlQ0SWxrVUgtdWo4Z3hyTG9vbXpUWWNTYXhIM3NWSjlV?oc=5
 
-  ALSO IN DEALS (38), headline only:
-  - Vår Energi to acquire ConocoPhillips' Norway business, including Greater Ekofisk operatorship, in $4.4-billion deal - Oil & Gas Journal (GN acquisitions)
-  - CrowdStrike Buys Cybersecurity Firm Zscaler for $44 Billion - PYMNTS.com (GN acquisitions)
-  - Intuit Agrees to Sell Mailchimp to Bending Spoons in $3.68 Billion Deal - CPA Practice Advisor (GN acquisitions)
+* Intuit Agrees to Sell Mailchimp to Bending Spoons in $3.68 Billion Deal - CPA Practice Advisor
+  GN acquisitions | 23 Nov 17:03 UTC
+  Intuit Agrees to Sell Mailchimp to Bending Spoons in $3.68 Billion Deal CPA Practice Advisor
+  https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMjJZWndoWkZOTmczdGpxRU9zRUl5LVRIdE9sd0FfV0ZGUHFlM0ZQZmlxdHBqczV6cEhPbE1aQTZvMWFXQUdKU29HYTliTjd6MFVjZGpUSVQ0dVZPTFBIU09yWkdOTFpfNFp0dnhkSjgxeDdqb1RUem9tUGF3dVptaXloc0QtbUR2OXdpWDBFdlpjX2VzUElrVU95TmtCdUhJUS1xZC1ZZk9rczdFZmVyWmtjdXNYRUVLT01oOS1qaEFrQQ?oc=5
+
+  ALSO IN DEALS (31), headline only:
   - Wynnchurch Completes Take-Private of Luxfer Holdings - Private Equity Professional (GN take-privates)
   - Lilly to acquire Huntington's disease drug developer LoQus23 for up to $725 million - Reuters (GN acquisitions)
   - CrowdStrike Sinks 12% on $43.9 Billion Zscaler Deal to Build “Cybersecurity’s Operating System” - Yahoo Finance (GN acquisitions)
@@ -1600,12 +1599,10 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - ABB to Acquire German Fan Maker Ziehl-Abegg for $2.65 Billion, Doubling Down on Data Center Cooling - BigGo Finance (GN acquisitions)
   - Amazon moves to acquire Decart to boost AI performance on its custom chips - Crypto Briefing (GN acquisitions)
   - Amazon Is Said to Pay $7.5 Billion For AI Startup Decart’s Tech - Bloomberg.com (GN acquisitions)
-  - LATO reportedly raises €4.28M to put AI on interview duty - Digg (GN PE fundraising)
   - CrowdStrike is spending $43.9 billion to buy Zscaler in a huge cybersecurity deal as tech outages spread - Yahoo Finance (GN acquisitions)
   - Two Major Cybersecurity Firms to Combine in $44 Billion Deal - The New York Times (GN acquisitions)
   - Crowdstrike to acquire Zscaler in a $44 billion deal that would create a cybersecurity giant - morning-times.com (GN acquisitions)
   - Data security startup Matters.ai raises Rs.110-Cr led by Tanglin Ventures - Venture Intelligence News (GN PE fundraising)
-  - Wealth-tech platform Ionic raises Rs.177-Cr led by Angel One - Venture Intelligence News (GN PE fundraising)
   - Braiin to Acquire Controlling Stake in Marut Drones in $40 Million Deal - TradingView (GN acquisitions)
   - M&S checks out of European stores in franchising shift (Sky News Business)
   - Intersnack lands Utz as $2.9 billion deal closes - Food Business News (GN acquisitions)
@@ -1613,9 +1610,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - CrowdStrike To Acquire Zscaler For $43.9B In All-Stock Deal: TD Cowen Sees Cybersecurity Consolidation Entering ‘More Material Phase’ - Yahoo Finance (GN acquisitions)
   - Martin Property Group makes last-gasp pitch to seal Poundland rescue (Sky News Business)
   - CrowdStrike to buy Zscaler in $44bn deal as cyber threats mount (FT Mergers and Acquisitions)
-  - Otro Capital looks to pursue broader sports ecosystem after closing $1.2bn fund - PEI Private Equity (GN PE fundraising)
   - US buyout giant picks London for first international office - Private Equity News (Google News UK PE buyouts)
-  - {Funding Alert} Everyday Silver Jewellery Brand Zavya Raises Rs 22.6 Cr in Fresh Funding - Indian Retailer (GN PE fundraising)
   - Tata Steel Limited entered into a share purchase agreement to acquire 16.47% stake in APL Apollo Tubes Limited from S Gupta Holding Pvt Ltd for INR 96.9 billion. - www.marketscreener.com (GN acquisitions)
   - Defence investor GALLOS unveils latest bet with critical infrastructure risk start-up (Sky News Business)
   - Irish ferries owner ICG leaves stock exchange as Rothwell-led €1.2bn ‘take-private’ is completed - Irish Independent (GN take-privates)
@@ -1631,6 +1626,11 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 ######################################################################
 
 --- Science (37) ---
+
+* New light-conversion tool could help speed up quantum computing
+  Phys.org | 24 Nov 03:20 UTC
+  Want to break down some basics in the world of quantum research over dinner? Researchers at the Cockrell School of Engineering have you covered.
+  https://phys.org/news/2026-11-conversion-tool-quantum.html
 
 * AI has solved a host of big math problems—here's why this threatens the whole field of mathematics
   Phys.org | 24 Nov 02:40 UTC
@@ -1687,12 +1687,8 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   In the desert, water doesn't arrive steadily. It comes in short pulses: a winter storm, a few rainy days, then months of drought. A desert plant needs two skills to live there. It has to survive the long dry spells, and it has to make full use of the brief windows when water is plentiful. A new study from Ben-Gurion University of the Nege...
   https://phys.org/news/2026-11-cactus-gears-pear.html
 
-* Overlooked symmetry group offers new geometric blueprint for the Standard Model and topologically protected vacuums
-  Phys.org | 23 Nov 22:40 UTC
-  For more than half a century, physicists searching for a grand unified theory have followed one unspoken rule: go bigger. If you want to weave nature's fundamental forces into a single mathematical framework, the classic recipe says you need a giant "simple" symmetry group—structures like SU(5) or SO(10) that act like massive algebraic wa...
-  https://phys.org/news/2026-11-overlooked-symmetry-group-geometric-blueprint.html
-
   ALSO IN SCIENCE (25), headline only:
+  - Overlooked symmetry group offers new geometric blueprint for the Standard Model and topologically protected vacuums (Phys.org)
   - A hidden link between a flower's color and its scent revealed (Phys.org)
   - South Africa's small cattle farmers need help before super El Niño hits: How to set up shade, water and feed (Phys.org)
   - Nanoparticles repair mitochondria to boost bone regeneration in diabetic rats (Phys.org)
@@ -1710,7 +1706,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Super El Niño will add to Africa's heat crisis—how governments can protect people before it peaks (Phys.org)
   - 310 million-year-old fossil reveals scorpion that looked much like modern relatives (Phys.org)
   - Croatia and Costa Rica lead countries in sustainable development—while Norway ranks near bottom (Phys.org)
-  - New study reveals how modern humans may have driven Neanderthals to extinction (Phys.org)
   - New gum disease treatment kills bad bacteria while sparing the good (ScienceDaily)
   - A galactic shock wave could rewrite the map of the Milky Way (ScienceDaily)
   - Two monster black holes from the dawn of time defy explanation (ScienceDaily)
@@ -1719,7 +1714,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Archaeologists reveal a powerful Iron Age king may have been a woman (ScienceDaily)
   - This tiny spider named after Stephen Colbert has a genome 50% larger than a human’s (ScienceDaily)
 
---- Space (12) ---
+--- Space (11) ---
 
 * Will astronauts farm on the moon? Scientists successfully grow potatoes in simulated lunar dust - Space
   GN Space.com | 23 Nov 22:00 UTC
@@ -1766,11 +1761,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Watch live today: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure Space
   https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ1NhTElEekZkMHVsR3NNYVlrZWVvTUgyQkNsYUVBdlg1dWlMdW5PamFBcXFzdnlETEp5RVljbzZ4UEp4OFppeUcyMF81eVdzcFdmbDR5eWR3N3pvTlJCVFEydUdhVFhZeXQ1NTA5dElPclh6MzFBZmRtaWp2SHZYUTRTa3F1NWxYYUtCNklhN1p6TkdGU1Nib2E4LWhHdHl0aEV2b3RJbDF2X0s0T1NaRVh5dFIzbzhF?oc=5
 
-* Members Prizes. - Space
-  GN Space.com | 23 Nov 09:25 UTC
-  Members Prizes. Space
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tRnlFVnZnaS12RDFNMFM2Vm8yOW55eFY2cEhZdjc4bktjeWZiZmFjT191aGlvaTBNYUJSS2JDei1heWYxR25TT2pxTE0wZW1P?oc=5
-
 * 25% off the Cometron 7x50 binoculars for Black Friday? Yes please! - Space
   GN Space.com | 23 Nov 08:00 UTC
   25% off the Cometron 7x50 binoculars for Black Friday? Yes please! Space
@@ -1781,7 +1771,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   SpaceX launches 2 rockets from same pad 32 hours apart, smashing turnaround record (video) Space
   https://news.google.com/rss/articles/CBMivwFBVV95cUxONEZiYjVhWTBHd18zRFRDbUVLa2NTZ01tb1ZmZ1dQYzhuR0tqbkVELWRfX1ppSEJiZENiSWdJaW9aSE1RdzlfTUwzelNKOXphaVptMENyenR2TEJySXRMb2VYcUpwMjN4bUdzSGRpeFloS1M2QnV2cGVsT2ZpWVdhdzNKQ0VPWDJzTTZlUnpIQUJ3RklLNm9QYmN1RTVtQUxDb0REY2sxOGd5b0kxN0xTSjB5NmcxcmF6dElqeUxFYw?oc=5
 
---- Health (43) ---
+--- Health (38) ---
 
 * Analysis Reframes Private Equity Healthcare Acquisitions as Debt Extraction Driving Clinical Risks - Bioengineer.org
   GN healthcare services deals | 24 Nov 01:22 UTC
@@ -1793,20 +1783,10 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Court strikes down anti-trans Ryan White funding rules 'based in animus, loathing and discrimination' Fierce Healthcare
   https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZHJNbUZzOWs5Rjgxa25ORE0xY0ZNcW1XWHFvR1VQc3lWc2pkeFdjYjJWVVU1bGx4dTI5bEJYRGo3M0hDRDZjOVFsMjVOdllGWF9hZjhIZm1vcFc5cUdUNVlEVXBid2Vobzc5OXo2cm9nYnU2QTFOM2tHdm1lVUxkNXhiZkJqWW5VN0NnV2M3eTlQV095YXFVcm1RVmRaYTdVbmt4bDBFUjBDTll2ZkhwY3dZRWVlZlc0?oc=5
 
-* AmInvestment lifts Sunway Healthcare earnings forecasts, TP - The Malaysian Reserve
-  GN healthcare services deals | 24 Nov 00:41 UTC
-  AmInvestment lifts Sunway Healthcare earnings forecasts, TP The Malaysian Reserve
-  https://news.google.com/rss/articles/CBMipAFBVV95cUxPSkkwRl9xZ1BacThWSEhKa1hhamRtRU9EM1Jsdm5feGhKbTd3TEJsZ05UWGhGTU8zekEyWHRxODhaaU1VVDFyTDV4STY0OThNYThFRTJ0T1dBeEpIbXVoVEV2bmsxdXphY01FZ3ZHZk8zamxEeDNwZGpraXBpNkJTSVp0WEtESHdwQUNsXzFlU01RQUxCUkZlby1KMjZuUC11YnZCXw?oc=5
-
 * STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices
   STAT News | 24 Nov 00:19 UTC
   The Trump administration said that the federal government will save $9.2 billion on drugs purchased through Medicare next year as a result of price negotiations.
   https://www.statnews.com/2026/11/23/medicare-drug-price-negotiations-announcement-third-round/?utm_campaign=rss
-
-* Diatonic Healthcare takes majority stake in nearshore staffing platform - Staffing Industry Analysts
-  GN healthcare services deals | 23 Nov 23:13 UTC
-  Diatonic Healthcare takes majority stake in nearshore staffing platform Staffing Industry Analysts
-  https://news.google.com/rss/articles/CBMixgFBVV95cUxOTmoxMTdqVk5pWUdTNGVza1RQcDBYTXZOLXlyc21RNldUSU11VlRwUWFNaGRNXzJRQVR2U184NlZTY3lTREdVUUlPS3JVbi0zWXdRaVlhZFFTeTgwak4xaEhBTU8ySlhpWHlSMjRPdHhySm03aU5PUVNUdXAwY2QwQlRlanJnMXBDSGhwWkh2LXZZQnFjRVBGNEZMRUFVSGlLZE1ocWtFZEkySlV1T2F5b09MYmdkVHllaTlqX2VRZHllUlJCSUE?oc=5
 
 * Measles Is a Growing Risk for Adults in the United States
   NYT Health | 23 Nov 22:19 UTC
@@ -1843,14 +1823,20 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   How messaging could be the next source of clinician burnout Fierce Healthcare
   https://news.google.com/rss/articles/CBMimwFBVV95cUxNSkJlRndkZ21Mb1hxMnZPQVA2bDBsTWdUQWs4MW80UGxDdVJUME00N2k1dm8zX0p4NGZDRUdQeWVJaXBONjFtSUEwZU45UHR0d2FMV1lPaWtza2o5YnNkVmdUT3Q1OHVnOHM3OFcxcHY0a2h2Um9kQ0MtdXJSTkIyNWtvT2J0YzhxZmRXYVdBcG54Mmh6d3pndlowUQ?oc=5
 
-  ALSO IN HEALTH (31), headline only:
-  - Innovaccer integrates Grok Voice into Gravity Voice AI agents - Fierce Healthcare (GN Fierce Healthcare)
-  - Family seeks justice after 21-year-old dies at Waterbury Hospital - WTNH.com (GN healthcare services deals)
-  - "Where Virtual Care Happens" - Fierce Healthcare (GN Fierce Healthcare)
+* Innovaccer integrates Grok Voice into Gravity Voice AI agents - Fierce Healthcare
+  GN Fierce Healthcare | 23 Nov 18:00 UTC
+  Innovaccer integrates Grok Voice into Gravity Voice AI agents Fierce Healthcare
+  https://news.google.com/rss/articles/CBMiswFBVV95cUxNamE5SFRBMVZjT1dsNDhZZ3JRcHlDSTczZk5JZjI0akZqcFg1RjVOOVF6elQzcHd2Z00zTUp6Rm40cHBGQjViY1pIRkdBTlFXUjEzYTFkbEZBRjM2R1V3R3AwbnRjaFhORXRnb1VTSmpHYjY3dE42M3ZWZFlfTFY4bWtkbGM0TGZwbjF2clQtNENKWEM1VUMybEVyMWVWOGNyTUtBR0hWZlduLUdhR2g0UHQ0RQ?oc=5
+
+* "Where Virtual Care Happens" - Fierce Healthcare
+  GN Fierce Healthcare | 23 Nov 17:32 UTC
+  "Where Virtual Care Happens" Fierce Healthcare
+  https://news.google.com/rss/articles/CBMiowFBVV95cUxNRC0xYkhfS2xjQ1dRNXhqM2xXS1hlMU1fTWEwcGtnb2kzcXRuZVFuVTQtdmR3LTRObTJWcWl4VXN3a1RNZnpLazk2dUhYYWM4XzVFNkhwUkpwYU9NdTRWVzJqOEMxMFA5ZlczMm5CdnJqc29lQVdhakQ2MVdfbWw2VGY0Nk03NkRfVTN1Szh3aEN0VU9VN2JrMDZRQkpkbkUwMV9R?oc=5
+
+  ALSO IN HEALTH (26), headline only:
   - Tampa General loses 340B lawsuit against Eli Lilly (Healthcare Dive)
   - Democrats demand answers from Oz after delay in $50B rural health awards - Fierce Healthcare (GN Fierce Healthcare)
   - Rani E. Snyder - Fierce Healthcare (GN Fierce Healthcare)
-  - Diatonic Healthcare Announces Majority Growth Investment in Smash Analytics - TMCnet (GN healthcare services deals)
   - 'Medicare for all' is back on the drawing board. Does it stand a better chance this time? (NPR Health)
   - H.I.V. Research Networks May Again Seek Federal Funding, With a Twist (NYT Health)
   - Feds unveil portal to track No Surprises disputes (Healthcare Dive)
@@ -1858,15 +1844,13 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - STAT+: A big win for a potential competitor for Dupixent eczema treatment (STAT News)
   - STAT+: Pharmalittle: We’re reading about Capricor’s Duchenne drug, Lilly’s 15th acquisition of 2026, and more (STAT News)
   - Industry Voices—The case for social prescribing in older adult care - Fierce Healthcare (GN Fierce Healthcare)
-  - Tower Bridge Hospital officially opens in doors in Whitechapel - Londra Gazete (GN healthcare services deals)
-  - Nottingham pharmaceutical firm snapped up by US healthcare giant - TheBusinessDesk.com (GN healthcare services deals)
   - Photon pharmacy marketplace integrated with ChatGPT for clinicians - Fierce Healthcare (GN Fierce Healthcare)
   - At first preventive services panel meeting in more than a year, votes are cast in private (STAT News)
+  - CMS proposes $100B cut to Medicare Advantage star ratings pay (Healthcare Dive)
   - STAT+: Invivyd reports positive results in Sisyphean Covid antibody quest (STAT News)
   - STAT+: Kymera Therapeutics reports mid-stage eczema trial success for would-be Dupixent rival (STAT News)
   - Regina Maria Healthcare Network expands presence in northern Romania through acquisition of Dorna Medical - Business Review (GN healthcare services deals)
   - CVS Health’s Planned Breakup Hasn’t Quieted Antitrust Critics (NYT Health)
-  - How bank regulatory issues can impact healthcare PE deals - Legal 500 (GN healthcare services deals)
   - Mushroom supplements promise health benefits. What does the science say? (NPR Health)
   - New maternity coding changes are here. Is your hospital ready? (Healthcare Dive)
   - Healthcare’s next decade starts now (Healthcare Dive)
@@ -1875,6 +1859,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - STAT+: A string of wins with cancer drugs sets Genmab up for its next chapter (STAT News)
   - Opinion: A Chinese research entity FOIA’d my scientific work. I had to give it to them (STAT News)
   - As diabetes association’s turmoil continues, what does it mean for patients? (STAT News)
+  - Healthcare-focused Alkemi Growth Capital to raise $150-M third fund - Venture Intelligence News (GN healthcare services deals)
 
 --- Energy (8) ---
 
@@ -2155,12 +2140,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 ## LONG READS
 ######################################################################
 
---- Long reads (36) ---
-
-* Investigating Russian Financial Networks Behind War and Sanctions Evasion - Pulitzer Center
-  Pulitzer Center | 23 Nov 20:53 UTC
-  Investigating Russian Financial Networks Behind War and Sanctions Evasion Pulitzer Center
-  https://news.google.com/rss/articles/CBMirgFBVV95cUxOTmR3Q3lZSXRPZmZiQjdDYmhLTjMybXJGTE8yekVWdkRiZkJKUGdkd25tSUlkQ2RXTXh1bjBHSTVDZHctNGVnV0c5WkxzWk9HbUdnVlJveW05QnBlVW1UTUFnLUdiMkNhd3QxNGpSOHRydVZ5WGlqYTVXeHRVWDRQZTZxQWI3RzZGRmdRdmlWb0pfTDNXTWE5QXhETGpDa2JQVGtvakFUOEZxeDVYa1E?oc=5
+--- Long reads (34) ---
 
 * Bond, Brexit and the Making of Modern Britain
   New Lines | 23 Nov 11:47 UTC
@@ -2232,11 +2212,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Surviving together; the fabric of our lives; don't mind us; above the rink; and lights, camera, Hallmark!
   FULL TEXT: Longreads has published hundreds of original stories—personal essays, reported features, reading lists, and more—and more than 14,000 editor’s picks. And they’re all funded by readers like you. Become a member today.
   https://longreads.com/2026/11/20/top-5-634/
-
-* Women Lead Hurricane Relief in Jamaica - Pulitzer Center
-  Pulitzer Center | 20 Nov 08:00 UTC
-  Women Lead Hurricane Relief in Jamaica Pulitzer Center
-  https://news.google.com/rss/articles/CBMie0FVX3lxTE41QlhDb3pMLVNZNWlIZm9hVEZKMko5OGxfM2dUQ2FYSWFYOEVtam5jbUtxR1lnTjlEZ3lCRkVTOGl0dXpQZkxhR2ZhYWtLOFhiTUhkcUlHRjNYQ3phTXlFZkcwLVc5cWpMMUI4UzNrUEs2a1BYX0xiWmJtVQ?oc=5
 
 * Infantino’s Path to a Fourth FIFA Presidency Runs Through Asia
   New Lines | 19 Nov 19:16 UTC
@@ -2374,19 +2349,20 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 ## WEATHER
 ######################################################################
 
-  Location: London
-  TODAY: 2 to 7C, cloudy, 0.0mm rain, wind up to 4 m/s
-  Wed 25 Nov: 3 to 6C, partlycloudy, 0.0mm rain, wind up to 5 m/s
-  Thu 26 Nov: 2 to 5C, cloudy, 0.0mm rain, wind up to 4 m/s
-  Fri 27 Nov: 0 to 4C, cloudy, 0.1mm rain, wind up to 3 m/s
-  Sat 28 Nov: 5 to 8C, cloudy, 4.6mm rain, wind up to 6 m/s
-  Sun 29 Nov: 6 to 10C, clearsky, 0.0mm rain, wind up to 4 m/s
-  Mon 30 Nov: 8 to 13C, cloudy, 1.2mm rain, wind up to 6 m/s
+  Location: Delray Beach, Florida
+  TODAY: 19 to 19C, cloudy, 0.4mm rain, wind up to 5 m/s
+  Tue 24 Nov: 18 to 26C, cloudy, 11.6mm rain, wind up to 5 m/s
+  Wed 25 Nov: 20 to 23C, heavyrain, 165.8mm rain, wind up to 6 m/s
+  Thu 26 Nov: 19 to 25C, fog, 0.0mm rain, wind up to 7 m/s
+  Fri 27 Nov: 14 to 21C, clearsky, 0.0mm rain, wind up to 2 m/s
+  Sat 28 Nov: 13 to 21C, fair, 0.0mm rain, wind up to 2 m/s
+  Sun 29 Nov: 15 to 25C, cloudy, 0.2mm rain, wind up to 3 m/s
 
 ======================================================================
 FULL TEXT UNAVAILABLE
 ======================================================================
 Flagged for full-text analysis but only the summary could be retrieved, usually a paywall. Do not treat the summary as the whole article:
+  - NYT Economy: Nvidia Asked to Sell Chips to Companies Tied to Chinese Mili
   - NYT Economy: Facing Criticism, Trump Administration Says It’s Investigati
 
 ======================================================================
@@ -2394,4 +2370,4 @@ SOURCES THAT FAILED TODAY
 ======================================================================
 None. Every feed returned current items.
 
-End of full digest. Built 2026-11-24T03:14:31.615631+00:00
+End of full digest. Built 2026-11-24T03:30:01.381721+00:00
