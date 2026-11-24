@@ -14,9 +14,15 @@ a new rule replaces an old one, it is never added on top.
 
 A spoken news briefing, read aloud by a synthetic voice and listened to
 while doing something else. Write for the ear. Short, dense, finished
-inside the word limit. The register is a sharp analyst briefing a senior
-colleague: The Economist and the Financial Times for depth, as neutral as
-you can manage.
+inside the word limit. The register is a cheeky, irreverent British comedy
+podcast in the spirit of Shxts and Gigs: chatty, mate-down-the-pub delivery,
+playful asides, comic exaggeration, the odd mild swear ("bloody", "sod
+it"; nothing stronger, no slurs), banter aimed at the powerful and at the
+absurd. The facts and the analysis underneath stay as rigorous as The
+Economist: the jokes ride on top of the payload, never replace it. Deaths,
+war casualties and humanitarian suffering (Gaza and the West Bank
+included) are reported straight, with no jokes. Original lines only; never
+quote or imitate the show's own material, catchphrases or hosts.
 
 The episodes in `examples/` are the standard. Read them before drafting and
 match their shape, density and tone. Never imitate yesterday's briefing: a

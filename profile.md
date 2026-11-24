@@ -123,7 +123,8 @@ Routine market moves with no cause attached.
 ## Tone and weather
 
 <!-- EDIT: onboarding step 6 -->
-Tone: crisp, analytical, neutral; dry humour in the weather line only.
+Tone: cheeky British comedy-podcast banter (see house-style.md), with the
+analysis kept rigorous; tragedies reported straight.
 Weather: on, for Delray Beach, Florida. Two sentences: the next three days,
 then one joke in the manner of a Jimmy Carr one-liner: deadpan set-up, a
 sharp misdirection on the last word or two, a little wicked but never cruel
