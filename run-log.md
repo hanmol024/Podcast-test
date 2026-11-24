@@ -13,5 +13,6 @@ or REVIEW (the weekly self-review).
 
 ## Log
 
+- 2026-11-24 - OK - 1234 words; no DRIFT; failed sources: none.
 - 2026-11-23 - OK - 1077 words; no DRIFT; failed sources: none reported (first episode).
 

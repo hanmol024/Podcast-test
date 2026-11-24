@@ -1,65 +1,65 @@
 Weather.
 
-Delray Beach is cloudy and sixty-six degrees today, with Tuesday between sixty-four and seventy-nine and Wednesday bringing heavy rain, over six inches of it. Wednesday's downpour means that for once, the only thing underwater in your portfolio will be the garden.
+Delray Beach is cloudy today at sixty-four to seventy-five degrees, with five inches of rain on Wednesday and a fair seventy-seven on Thursday. Wednesday's downpour will cancel your golf, which your handicap will take as a personal favour.
 
-Here are the biggest news stories and how they connect. Nvidia's board reinstated Jensen Huang as chief executive after President Trump personally pressed it, eleven days after he resigned over affairs, one with an executive tied to a suspected Chinese intelligence asset. The Nasdaq rose six point five percent and Nvidia added nearly a trillion dollars of value; Korea's Kospi jumped seven percent. Yet lawmakers of both parties are demanding he testify, he is due before senators on the third of December, and the same day Washington blacklisted Megaspeed, the firm at the centre of the chip-smuggling case. Markets are pricing the AI trade as too big to be allowed to fail. My reading: that is political insurance, not a changed fundamental, and it lasts only as long as Congress lets it.
+Here are the biggest news stories and how they connect. Jensen Huang is back at Nvidia, and Washington has noticed. Republicans and Democrats both object, premarket shares are down, and lawmakers have released papers showing the Commerce Department approved more than eight hundred thousand AI chips for Chinese buyers, some with military ties. Yet boards are spending confidence as if none of that matters: Sanofi is paying forty-one billion dollars in cash for Insmed, and CrowdStrike is buying Zscaler for forty-three point nine billion in shares, the biggest cybersecurity deal on record. My reading: those prices assume the AI rally survives Huang's Senate hearing on the third of December, which is a bloody big assumption.
 
 Politics.
 
-United States. Democrats have won the House by the largest margin in fifty years, flipping forty-seven seats with a possible forty-nine. California's Jimmy Gomez resigns after an ethics report found unwelcome sexual advances.
+United States. The Senate passed a permitting reform bill last week that speeds environmental reviews, limits litigation delays and eases power line siting for clean energy and oil and gas alike. Democrats voted two to one against it, yet it reaches a House they take over in January. A new executive order makes contractors withhold anything the White House calls privileged from Congress, which is oversight by permission slip.
 
-UK. Prime Minister Burnham says rejoining the EU without a second referendum would be unthinkable, his strongest pledge yet to consult voters. Officials insist he is not backtracking on closer ties after the Brussels summit.
+UK. Stephen Timms's review of disability payments, published today, calls for a fundamental overhaul of assessments and quicker payment for some claimants, after the government watered down cuts last year. Education secretary Lucy Powell flies to Beijing weeks after the security service warned universities about Chinese interference. Cracking timing.
 
-Europe. Spain's election campaign is reopening civil war wounds as the far right nears government; a new poll says nearly a third of voters mainly want Sánchez gone. Estonia is closing its border with Russia, which has protested, and Finland summoned Russia's ambassador over a suspected helicopter incursion.
+Europe. A Russian drone violated Polish airspace days after cruise missiles fell on the country, and NATO is sending early-warning aircraft. Secretary general Rutte sees Trump at Mar-a-Lago on Wednesday.
 
-Mexico. Friday's capture in Sinaloa of the cartel leader known as Chapo Isidro, Fausto Meza Flores, is now a sovereignty test. Sheinbaum says US intelligence helped; Mexico says Americans were not on the ground. Mexico will try him itself despite a US extradition request. Violence followed: soldiers were attacked, over a dozen suspects were killed, and sixteen were arrested in Sinaloa over the weekend. Separately, Mexico and China agreed a trade working group.
+Mexico. On Monday I said Mexico will try Chapo Isidro itself despite a US extradition request. France twenty-four now reports a US surveillance drone helped catch him, which fits Mexico's line that no Americans were on the ground but strains Sheinbaum's slogan of cooperation without subordination. Sheinbaum spent her China trip in a ninety-minute qigong class, which is more inner peace than the other leaders managed.
 
 Conflict and world affairs.
 
-Gaza. Israeli strikes killed at least three people at a police post in Khan Younis, and Reuters reports a United Nations relief agency worker delivering water was among the dead. Winter is arriving with shelter aid short, United Nations agencies warn. Oxfam says more than ninety-nine percent of Gaza shows environmental contamination.
+Gaza. Israeli strikes killed at least six Palestinians on Tuesday, including two police officers, medics said. The health ministry has declared a meningitis alert, with cases at two hundred seventy-two in October, over eight times the usual monthly rate, and blames Israeli restrictions on supplies.
 
-West Bank. Settler raids on Palestinian villages drew rare condemnation from Israeli leaders, including President Herzog, as Jewish terrorism; France condemned them too. A rights group says attacks on Palestinian medics are up three hundred fifty percent. US envoy Jared Kushner told New York Magazine Israel is on a path to becoming a global-pariah state.
+West Bank. Reports say Israel has redrawn the Hebron map, raising fears of annexation.
 
-Iran. The US naval blockade stands; Iran says three ships caught fire after hitting mines in Hormuz and vows to use every tool. Washington sanctioned dozens in Iran's shadow banking network; Qatar is trying to revive talks.
+Iran. Iran has ordered Hormuz closed day by day. The Revolutionary Guards say three tankers hit mines under US escort; the allied maritime information centre says that is unconfirmed. Qatar is pressing Washington to restart talks, but Iran's lead negotiator says nothing moves until its seven conditions are met.
 
-Ukraine. Kyiv confirmed sea drones sank the Russian corvette Merkury at Benghazi in Libya, prompting a United Nations call for an inquiry. Reports say Russia may put a nuclear weapon in orbit; NATO vows space defence.
+Ukraine. Ukraine sent three hundred fifty-five drones toward Moscow overnight, halting flights at two airports. Russian strikes on Zaporizhzhia killed two and injured dozens. Hegseth has yet to approve sixty Patriot interceptors for Kyiv, the Financial Times says.
 
-Elsewhere. Tajikistan is leaving the International Criminal Court, the fourth country to do so since a US push. India pledged one point six billion dollars to flood-hit Nepal. Disasters: a factory fire in Indonesia killed twenty-four with about thirty missing.
+Elsewhere. The International Court of Justice found Myanmar committed genocide against the Rohingya yet Malaysia is returning thousands of them after Turkey refused, though its prime minister admits the junta's atrocities. The Solomon Islands has told China it will end their twenty twenty-two security pact, with an Australian treaty to replace it, the Sydney Morning Herald reports. Exiled Bangladeshi leader Sheikh Hasina plans to fly home on the sixteenth of December; the government says only extradition will bring her. Disasters: the death toll in Indonesia's candy factory fire is twenty-six, with dozens missing.
 
 Economy and markets.
 
-Equities. The Huang rally has two readings. One says it removes a governance discount on the firm anchoring AI capital spending. The other says a leveraged AI cycle just proved it needs political rescue, which raises the risk premium, not lowers it. Either way, my inference is that this week's cheaper equity currency feeds the stock-funded deal wave below.
+Equities. Futures point to a slip in US tech after the rally. The rescue priced out a governance risk, not the export-control one, and Megaspeed is now blacklisted. Two readings: one says enforcement is tightening, which is bad for Nvidia's China sales; the other says a Congress turning Democratic in January makes chip rules the next shock to AI valuations. Markets are pricing a political backstop for AI, but only until the hearing. A Dutch minister's trip to China, as Washington revives pressure for tougher ASML curbs, suggests the squeeze spreads to equipment makers; my inference.
 
-Deals as signal. CrowdStrike will buy Zscaler for forty-three point nine billion dollars in an all-stock deal, Amazon is reported to pay seven point five billion for Decart, and Vår Energi is buying ConocoPhillips's Norwegian assets for four point four billion. Big, stock-paid deals say boards are confident of equity valuations, not cheap debt; CrowdStrike fell twelve percent on the news, so investors are not.
+AI spending. Data centre cancellations doubled in the third quarter, to sixteen projects, though stalled value since twenty twenty-four is only two hundred seventy-one million dollars. A rounding error against the spending, but cycles usually crack at the margin.
 
-Oil. Crude sits near a three-month low as supply rises, despite the Hormuz mines. Markets are betting damage stays contained.
+Energy. Europe's gas prices jumped on a forecast cold snap, with Iran's Hormuz order on top. The supply-shock reading says look through a transient spike; the Phillips-curve reading says it matters if expectations drift. Yesterday's bet was that Hormuz damage stays contained; today tests it. Read-through: higher winter headline inflation and a harder call for the Bank of England and European Central Bank on looking through it.
 
-Mexico and Brazil. Mexico's economy grew three point three percent in the third quarter, its best since twenty twenty-three, with optimism about a US deal. Brazil cut its twenty twenty-seven growth forecast to one point eight percent and raised inflation to four point five, blaming high rates.
+Japan. Japan cut its consumer spending view for the first time since twenty twenty-four, so rate hikes now meet weak demand.
 
 Business.
 
-Capita's chief executive quit and shares fell about seventy percent after civil service pension failures and a planned cash call. Poundland has days to find a buyer or collapse. Healthcare services: global health insurance costs are forecast to rise ten point two percent next year, and Tampa General lost its drug-discount lawsuit against Eli Lilly.
+The EU will cap tariff-free Chinese hybrid imports next month, with quotas also hitting British, Japanese and Turkish cars. That is protection arriving late: Chinese carmakers now outsell Japanese rivals in twenty-six markets, six of them new this year. Healthcare services: critics say Medicare's hospice payment caps penalise patients who are not dying on the government's timetable, and Florida is suing the Leapfrog Group over its hospital safety grades.
 
 Deals and private equity.
 
-Thoma Bravo agreed to take insurer Accelerant private at twenty dollars and twenty-five cents a share. Brookfield buys PGP Glass from Blackstone for one point seven billion dollars, an exit betting on AI-related growth. Rothwell completed its one point two billion euro take-private of Irish Continental Group. Poundland has rival rescue bids from Martin Property Group and a German buyer.
+Sanofi's Insmed deal buys two approved lung drugs to offset falling Dupixent revenue; its shares hit a one-year high. Brookfield's two point five three billion dollar bid for Reliance Worldwide has AustralianSuper's backing, so pension money is co-investing. A secondaries fund raised over one billion dollars, which says sponsors still want liquidity while exits are slow; my reading. On Monday I said Poundland had days to find a buyer. Martin Property Group and a German rival have now both made last-gasp pitches.
 
 Science and technology.
 
-Researchers uncovered how Taxol, a key cancer drug, is made, so tobacco plants could produce it. AI models have cracked hundreds of open maths problems this year, a shift mathematicians call an identity crisis.
+Astronomers found the most distant quasar yet, which tightens limits on how the first black holes formed. China's Shenzhou-twenty-four is due to launch on Wednesday with Pakistani air force pilot Muhammad Zeeshan Ali, the first foreign astronaut on Tiangong.
 
 Energy, climate and infrastructure.
 
-COP thirty-one in Antalya ended without agreement, the longest summit ever, and the first since Copenhagen to lose its main declaration over fossil fuels and finance. In Iowa, a court cleared the Army to detonate nearly five tonnes of lead azide, though Trump had delayed it; the lead dust risk is the story.
+Iowa. The Army plans to detonate nearly five tonnes of lead azide on Wednesday after dropping a cleaner option that would have made it harmless, risking lead dust over farmland. COP thirty-one's pact was rejected by the EU, the UK and vulnerable states for dodging fossil fuels and finance, though eighty nations backed a thirty-five percent electricity share of final energy by twenty thirty-five.
 
 Health, law and society.
 
-The FDA approved its first drug for limb-girdle muscular dystrophy, from BridgeBio. The Fifth Circuit ruled House pandemic proxy voting unconstitutional.
+Pennsylvania reports its ninth measles death in the ongoing outbreak. A Danish court has backed the so-called ghetto law used to evict residents of non-Western background.
 
 Culture and sport.
 
-The United States, Mexico, Costa Rica and Jamaica will co-host the twenty thirty-one Women's World Cup; Britain gets twenty thirty-five.
+Ted Lasso is renewed for a fifth season. Formula One in Las Vegas produced three hundred fifty-two position changes, thirty-five for the lead, so either a classic or a pinball machine. The Court of Arbitration for Sport is due to rule today on Senegal's Africa Cup title appeal.
 
 Long reads.
 
-Rest of World: AI is not replacing jobs, it is making them low-paid gig work. Aeon: how El Niño has shaped societies for millennia, timely with a super El Niño forecast.
+Rest of World: IBM told US-based visa holders in consulting to relocate abroad or leave, with three weeks to decide, and one employee says India means about an eighty percent pay cut. Aeon: is mental illness universal, from anorexia in Hong Kong to how culture shapes distress.
