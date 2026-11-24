@@ -263,7 +263,8 @@ Then:
 3. When `tools/check_render.py` reports the episode rendered, check the
    public address: `curl -fsS -o /dev/null -w "%{http_code}" <feed url>`,
    where the feed url is `https://<owner>.github.io/<repository>/feed.xml`
-   in lower case. Retry for up to three minutes.
+   keeping the repository name's capitals exactly (GitHub Pages is
+   case-sensitive there). Retry for up to three minutes.
 
 If the address still returns 404, the website setting is off. Ask them:
 

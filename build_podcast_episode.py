@@ -226,7 +226,10 @@ def build_feed_xml(items, feed_url, site_url, cover_url=None):
 def main():
     briefing_path = sys.argv[1] if len(sys.argv) > 1 else "briefing.txt"
     site_dir = sys.argv[2] if len(sys.argv) > 2 else "_site"
-    pages_base_url = os.environ["PAGES_BASE_URL"].rstrip("/").lower()  # e.g. https://someone.github.io/my-briefing
+    # Keep the repository name's capitals: GitHub Pages serves a project
+    # site only at its exact name, so /Podcast-test works and /podcast-test
+    # is a 404 (24 Nov 2026: lower-casing this broke the first feed).
+    pages_base_url = os.environ["PAGES_BASE_URL"].rstrip("/")  # e.g. https://someone.github.io/My-Briefing
 
     if not os.path.exists(briefing_path):
         print(f"No {briefing_path} found - nothing to do.")
@@ -236,7 +239,11 @@ def main():
         briefing_text = f.read().strip()
 
     # The episode is dated in the listener's own time zone, not UTC.
-    today = datetime.datetime.now(LOCAL_TZ).date()
+    # EPISODE_DATE (YYYY-MM-DD) re-renders a given day, e.g. after a fix
+    # made past midnight; normally empty, meaning today.
+    override = os.environ.get("EPISODE_DATE", "").strip()
+    today = (datetime.date.fromisoformat(override) if override
+             else datetime.datetime.now(LOCAL_TZ).date())
     date_str = today.isoformat()
 
     audio_dir = os.path.join(site_dir, "audio")
@@ -255,6 +262,11 @@ def main():
     feed_path = os.path.join(site_dir, "feed.xml")
     existing_items = load_existing_items(feed_path)
     existing_items = [it for it in existing_items if not it["guid"].endswith(date_str)]
+    # Point every older episode at the current address too, so a change of
+    # address (such as the capitals fix above) never strands old episodes.
+    for it in existing_items:
+        if it.get("url"):
+            it["url"] = f"{pages_base_url}/audio/{it['url'].rsplit('/', 1)[-1]}"
 
     weekday_date = today.strftime("%A %d %B %Y")
     description_snippet = briefing_text[:280].rsplit(" ", 1)[0] + "…"

@@ -17,7 +17,7 @@ is empty, setup is not complete: resume at the first empty box.
 ## Notes
 
 Phone and podcast app: iPhone (presumed), Apple Podcasts
-Podcast address: https://hanmol024.github.io/podcast-test/feed.xml (Pages deploy succeeded 2026-11-24 03:45 UTC; container cannot reach github.io directly)
+Podcast address: https://hanmol024.github.io/Podcast-test/feed.xml (capitals matter: the lower-case address is a 404)
 Scheduled task ids:
 
 New interests needing sources (step 5): Mexico politics; Palestine (Gaza/West Bank); M&A; healthcare services.
