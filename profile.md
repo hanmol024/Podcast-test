@@ -10,7 +10,7 @@ matching block, keep each block short, and replace text instead of adding
 to it. Never change it on your own initiative. Section names here must
 match the names in `config.json`.
 
-SETUP STATUS: not set up yet - follow ONBOARDING.md
+SETUP STATUS: complete
 
 ---
 
