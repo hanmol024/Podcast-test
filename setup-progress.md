@@ -8,7 +8,7 @@ is empty, setup is not complete: resume at the first empty box.
 - [x] 3. The ten topics
 - [x] 4. Watchlist
 - [x] 5. Sources
-- [ ] 6. Format: length, tone, weather place, voice, time, show name
+- [x] 6. Format: length, tone, weather place, voice, time, show name
 - [ ] 7. First episode published and the podcast address working
 - [ ] 8. Subscribed on their phone; first feedback applied
 - [ ] 9. Daily run, two backup checks and the weekly review scheduled
