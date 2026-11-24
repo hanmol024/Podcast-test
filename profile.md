@@ -51,7 +51,9 @@ structural importance; disasters as a single roll-up line.
 Included: central bank decisions and signals (Federal Reserve, Bank of
 England, European Central Bank); inflation, jobs and growth data against
 expectations; sterling and the dollar; what markets are pricing and why;
-the artificial intelligence investment cycle as a macro force.
+the artificial intelligence investment cycle as a macro force; mergers and
+acquisitions activity as a market signal (volumes, big announced deals and
+what they say about confidence and financing; deal detail sits in Deals).
 This is the protected core. Full analytical depth, per `house-style.md`.
 
 ### Business
