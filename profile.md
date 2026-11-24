@@ -40,9 +40,11 @@ government falling) gets proper treatment.
 
 ### Conflict and world affairs
 <!-- EDIT: onboarding section 2 -->
-Included: the major wars and crises, one tight line per development; at
-least three significant stories from outside the US, UK and Europe, chosen
-for structural importance; disasters as a single roll-up line.
+Included: the major wars and crises, one tight line per development;
+Palestine (Gaza and the West Bank) followed closely every day, with proper
+treatment of humanitarian, political and diplomatic developments; at least
+three significant stories from outside the US, UK and Europe, chosen for
+structural importance; disasters as a single roll-up line.
 
 ### Economy and markets
 <!-- EDIT: onboarding section 3 -->
