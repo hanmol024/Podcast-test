@@ -1,7 +1,7 @@
 {
-  "show_title": "Morning Briefing",
+  "show_title": "Morning Brief",
   "show_description": "A personal daily news briefing, read aloud.",
-  "timezone": "Europe/London",
+  "timezone": "America/New_York",
   "ready_by": "06:45",
   "days": "daily",
 
@@ -12,9 +12,9 @@
 
   "weather": {
     "enabled": true,
-    "place": "London",
-    "lat": 51.5074,
-    "lon": -0.1278
+    "place": "Delray Beach, Florida",
+    "lat": 26.4615,
+    "lon": -80.0728
   },
 
   "words": { "target": 1150, "min": 1000, "max": 1250 },

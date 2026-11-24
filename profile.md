@@ -124,4 +124,7 @@ Routine market moves with no cause attached.
 
 <!-- EDIT: onboarding step 6 -->
 Tone: crisp, analytical, neutral; dry humour in the weather line only.
-Weather: on. Two sentences: the next three days, then one joke.
+Weather: on, for Delray Beach, Florida. Two sentences: the next three days,
+then one joke in the manner of a Jimmy Carr one-liner: deadpan set-up, a
+sharp misdirection on the last word or two, a little wicked but never cruel
+about real people or tragedies. Original jokes only; never reuse his material.
