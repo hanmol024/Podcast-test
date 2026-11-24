@@ -6,7 +6,7 @@ is empty, setup is not complete: resume at the first empty box.
 - [x] 1. Welcome; permission to save and publish; phone and podcast app
 - [x] 2. About the listener
 - [x] 3. The ten topics
-- [ ] 4. Watchlist
+- [x] 4. Watchlist
 - [ ] 5. Sources
 - [ ] 6. Format: length, tone, weather place, voice, time, show name
 - [ ] 7. First episode published and the podcast address working
