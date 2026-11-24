@@ -32,7 +32,8 @@ inflation, the big geopolitical shocks, and what they mean for business.
 
 ### Politics
 <!-- EDIT: onboarding section 1 -->
-Included: the major political headlines; the UK; the United States; Europe.
+Included: the major political headlines; the UK; the United States; Europe;
+Mexico, followed closely (government, reforms, US-Mexico relations, trade).
 Treat process stories and cabinet noise as churn: one line or nothing.
 Politics with a mechanism attached (a law passed, a budget measure, a
 government falling) gets proper treatment.
