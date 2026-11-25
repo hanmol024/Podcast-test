@@ -1,0 +1,65 @@
+Weather.
+
+Delray Beach gets heavy rain today at seventy to seventy-five degrees, then a clear Thursday between sixty-three and seventy-seven, with Friday cloudy and fifty-seven to seventy-two. Thanksgiving is sunny and warm enough to carve the turkey outside, which is handy, because the family argument that follows will be carved up just as nicely.
+
+Here are the biggest news stories and how they connect. Washington rescued Jensen Huang and the market has not said thank you. Nvidia fell around five percent on Tuesday and Wall Street's tech sell-off is now weeks old, with Nasdaq futures pointing lower again this morning. Anthropic, the Claude maker, has slipped below its IPO price, which the Financial Times says makes it a hard act to follow for OpenAI. Meanwhile the real economy is paying for the Iran war: Britain's energy price cap jumps twenty-six percent in January, and Trump is reported to be readying fresh tariffs on sixteen economies. Higher input costs and higher discount rates are exactly what long-duration AI profits hate. My reading: no politician can reprice that for them, and the next test is the Senate hearing on the third of December.
+
+Politics.
+
+United States. Kilmar Abrego Garcia has left for Spain voluntarily, ending a twenty-month legal fight rather than risk deportation to Liberia. Democrats now hold their biggest House majority in thirty years, and Dan Sullivan conceded Alaska's Senate race to Mary Peltola.
+
+UK. Burnham has launched an independent inquiry into the records of nuclear bomb test veterans; Health Secretary Streeting says previous governments covered up the harm. The Institute for Fiscal Studies says the Timms proposals on disability benefits would raise the welfare bill, even as reports say hundreds of thousands of claimants could lose payments. A new review finds the Met police still institutionally racist, misogynistic and homophobic.
+
+Europe. Germany's Merz warns that Russia wants more than Ukraine and is escalating on a massive scale. Estonia closes all five of its Russian border crossings from the first of December for at least six months.
+
+Mexico. Foreign investment hit a record forty-three billion dollars through September, but new investment plunged forty-two percent, so the headline is mostly reinvested profit.
+
+Conflict and world affairs.
+
+Iran. On Tuesday I said Iran had ordered Hormuz closed day by day. Today the American virtual embassy has told citizens to leave Iran and warned hostilities could escalate fast, after Iranian attacks on American assets in Bahrain and Kuwait and a Houthi strike on Riyadh that injured eleven people.
+
+Gaza. Israel killed a second Hamas security chief in as many days, Mohammad Abuelouf, in an apartment strike in Gaza City that also killed his wife and their two daughters, aged thirteen and fifteen. Amnesty urges the International Criminal Court to investigate genocide through prevented births.
+
+West Bank. A mayor warns new Israeli army gates could cut off seventy thousand Palestinians.
+
+Ukraine. The Financial Times says Washington has quietly dropped business deals with Russia as leverage and returned to land for peace. Zelensky says the United States wants a deal by January; Trump says he is under no timeline. Leaked Russian statistics put Moscow's dead between four hundred ninety thousand and seven hundred thousand.
+
+Elsewhere. China is investigating Politburo member Chen Jining, Shanghai's party chief, the latest of Xi's purges. Australia and the Solomon Islands signed a treaty making Canberra the primary security partner, a blow to Beijing. Bangladesh garment workers are offered a thirty-six percent pay rise but have not accepted. Disasters: all hostages freed from a Colombian supermarket after seventeen hours; a flooded Indonesian gold mine leaves three dead and more than twenty trapped.
+
+Economy and markets.
+
+Equities. Futures point down again after Nvidia's slide, so the Huang rescue priced out a governance risk, not a valuation one. Two readings: one says this is a normal reset after a parabolic run; the other says a rising discount rate meets cancelled data centre projects, and Asian data centres that touted Chinese chip access now face tighter American scrutiny. Markets are pricing less political insurance than they hoped; that is my inference.
+
+Energy and inflation. Ofgem's cap rises for a third straight quarter, taking the typical annual bill above two thousand pounds, on wholesale gas. This is cost-push inflation: the supply-shock school says look through it, the Phillips-curve school says that with expectations already fragile, the Bank of England cannot. Read-through: a harder winter for sterling and for rate cuts.
+
+Trade. Tariffs on sixteen economies, if confirmed, are a tax on importers and a reason for partners to retaliate.
+
+Elsewhere. Argentina is in technical recession after two quarters of contraction.
+
+Business.
+
+Compass, the NHS caterer, is ditching its main London listing for New York, and M&G's boss is urging the UK to stem the flood of firms leaving, a sign that London's cost of equity is losing the argument. Healthcare services: a Catholic takeover of fourteen Australian private hospitals is approved, ending IVF, elective abortion and assisted dying there.
+
+Deals and private equity.
+
+Staple Street, a United States investor, is backing the German last-gasp bid for Poundland. GBL has completed its Recordati take-private with CVC, and ICG has completed a one point two billion euro take-private. Amazon's seven point five billion dollar deal for Decart shows how expensive AI talent has become; my reading is that buying teams is cheaper than building them. Blackstone, Warburg Pincus and Apollo are in talks to back GTCR's take-private of Global Payments, which says private credit and buyout money are still hunting large assets even as public AI valuations wobble.
+
+Science and technology.
+
+A new AI-assisted proof of the Riemann hypothesis appears solid, though mathematicians are not sure what it tells us. China's Shenzhou-twenty-four launched and docked at Tiangong carrying Pakistan's first astronaut, the first foreign crew member aboard.
+
+Energy, climate and infrastructure.
+
+Iowa. On Tuesday I said the Army would detonate nearly five tonnes of lead azide on Wednesday. It is due this morning, and residents of Middletown are taping their doors and ready to flee. COP thirty-one ran nearly fifty hours over, the longest ever, and ended with the Antalya pact rejected by at least thirty-two countries; Australia's Chris Bowen says the words fossil fuels derailed it.
+
+Health, law and society.
+
+United States measles deaths now stand at fourteen, with a third death in Wisconsin and a first in Virginia. Australia passed a law fining platforms up to five percent of global revenue for failing to stamp out harmful content; Washington says it harms free speech.
+
+Culture and sport.
+
+Senegal were reinstated as African champions by the Court of Arbitration for Sport, and Morocco vows to fight on. The world chess championship opened with a thirty-eight move draw between Gukesh and Sindarov.
+
+Long reads.
+
+The Economist's Intelligence: why Iran's hot war has cooled into a stalemate with America. Rest of World: how foreign AI romance apps are hooking African teenagers on synthetic love.
